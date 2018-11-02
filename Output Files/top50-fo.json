@@ -2,24 +2,24 @@
   "CountryName": "Faroe Islands",
   "Domains": [
     {
-      "Name": "hi.fo",
-      "Rank": 694625
+      "Name": "hoteltorshavn.fo",
+      "Rank": 945337
     },
     {
       "Name": "in.fo",
-      "Rank": 120449
+      "Rank": 146641
     },
     {
       "Name": "kvf.fo",
-      "Rank": 702672
-    },
-    {
-      "Name": "vaktir.fo",
-      "Rank": 483823
+      "Rank": 113945
     },
     {
       "Name": "vp.fo",
-      "Rank": 223170
+      "Rank": 144679
+    },
+    {
+      "Name": "wenzel.fo",
+      "Rank": 454502
     }
   ]
 }

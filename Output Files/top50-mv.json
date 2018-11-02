@@ -2,24 +2,32 @@
   "CountryName": "Maldives",
   "Domains": [
     {
+      "Name": "egov.mv",
+      "Rank": 542359
+    },
+    {
       "Name": "globalhealth.mv",
-      "Rank": 804945
+      "Rank": 212552
     },
     {
       "Name": "ibay.com.mv",
-      "Rank": 50611
-    },
-    {
-      "Name": "macl.aero",
-      "Rank": 88679
+      "Rank": 40956
     },
     {
       "Name": "mnu.edu.mv",
-      "Rank": 480603
+      "Rank": 275139
+    },
+    {
+      "Name": "ooredoo.mv",
+      "Rank": 388298
+    },
+    {
+      "Name": "raajje.mv",
+      "Rank": 53038
     },
     {
       "Name": "sun.mv",
-      "Rank": 21083
+      "Rank": 333821
     }
   ]
 }

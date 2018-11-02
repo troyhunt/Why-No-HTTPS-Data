@@ -2,200 +2,192 @@
   "CountryName": "Tajikistan",
   "Domains": [
     {
-      "Name": "ahd.tj",
-      "Rank": 829665
-    },
-    {
-      "Name": "airport.tj",
-      "Rank": 599398
-    },
-    {
       "Name": "amonatbonk.tj",
-      "Rank": 584063
+      "Rank": 520022
     },
     {
       "Name": "andoz.tj",
-      "Rank": 237893
+      "Rank": 127768
     },
     {
       "Name": "asiaplus.tj",
-      "Rank": 196420
+      "Rank": 213795
     },
     {
       "Name": "asiaplustj.info",
-      "Rank": 64822
+      "Rank": 416783
     },
     {
       "Name": "asiaset.tj",
-      "Rank": 988574
+      "Rank": 747820
     },
     {
       "Name": "avesta.tj",
-      "Rank": 138286
+      "Rank": 119129
     },
     {
       "Name": "babilon-m.tj",
-      "Rank": 165948
+      "Rank": 298830
     },
     {
       "Name": "babilon-t.tj",
-      "Rank": 102544
+      "Rank": 199496
     },
     {
       "Name": "beta.tj",
-      "Rank": 619664
+      "Rank": 628098
+    },
+    {
+      "Name": "daad.tj",
+      "Rank": 496262
+    },
+    {
+      "Name": "dialog.tj",
+      "Rank": 808814
+    },
+    {
+      "Name": "dushanbe.tj",
+      "Rank": 538277
     },
     {
       "Name": "eskhata.tj",
-      "Rank": 328624
+      "Rank": 175331
     },
     {
-      "Name": "faraj.tj",
-      "Rank": 315728
+      "Name": "fft.tj",
+      "Rank": 698210
     },
     {
       "Name": "fmfb.com.tj",
-      "Rank": 328853
+      "Rank": 317391
     },
     {
       "Name": "ftp-khujand.tj",
-      "Rank": 301471
+      "Rank": 382554
+    },
+    {
+      "Name": "irs.tj",
+      "Rank": 696794
+    },
+    {
+      "Name": "jumhuriyat.tj",
+      "Rank": 791558
     },
     {
       "Name": "megafon.tj",
-      "Rank": 140239
+      "Rank": 177380
     },
     {
       "Name": "mfa.tj",
-      "Rank": 211347
+      "Rank": 327614
     },
     {
       "Name": "mix.tj",
-      "Rank": 19543
-    },
-    {
-      "Name": "mmk.tj",
-      "Rank": 570241
+      "Rank": 18525
     },
     {
       "Name": "mvd.tj",
-      "Rank": 358593
+      "Rank": 856421
     },
     {
       "Name": "nbt.tj",
-      "Rank": 122551
+      "Rank": 186933
     },
     {
       "Name": "news.tj",
-      "Rank": 36000
+      "Rank": 22392
     },
     {
       "Name": "nm.tj",
-      "Rank": 233684
-    },
-    {
-      "Name": "payvand.tj",
-      "Rank": 828066
+      "Rank": 359542
     },
     {
       "Name": "planeta.tj",
-      "Rank": 96836
+      "Rank": 129287
     },
     {
       "Name": "president.tj",
-      "Rank": 96048
+      "Rank": 109070
     },
     {
       "Name": "prezident.tj",
-      "Rank": 453937
+      "Rank": 353285
     },
     {
-      "Name": "realtennisi.tj",
-      "Rank": 781435
+      "Name": "reg.tj",
+      "Rank": 389864
     },
     {
       "Name": "rg.tj",
-      "Rank": 235056
-    },
-    {
-      "Name": "rtsu.tj",
-      "Rank": 388447
+      "Rank": 235526
     },
     {
       "Name": "saturn.tj",
-      "Rank": 57551
+      "Rank": 71075
     },
     {
       "Name": "sugd.tj",
-      "Rank": 419865
+      "Rank": 345439
     },
     {
       "Name": "tajfile.tj",
-      "Rank": 158028
+      "Rank": 129744
     },
     {
       "Name": "tajmedia.tj",
-      "Rank": 193959
-    },
-    {
-      "Name": "tajpay.tj",
-      "Rank": 482143
+      "Rank": 576531
     },
     {
       "Name": "tajset.tj",
-      "Rank": 381972
+      "Rank": 251369
     },
     {
       "Name": "takvim.tj",
-      "Rank": 513248
-    },
-    {
-      "Name": "taqvim.tj",
-      "Rank": 990219
+      "Rank": 327820
     },
     {
       "Name": "tcell.tj",
-      "Rank": 107643
+      "Rank": 128929
+    },
+    {
+      "Name": "tnu.tj",
+      "Rank": 216336
     },
     {
       "Name": "tojnet.tj",
-      "Rank": 55288
+      "Rank": 56752
     },
     {
       "Name": "topfile.tj",
-      "Rank": 47429
-    },
-    {
-      "Name": "topmusic.tj",
-      "Rank": 442424
+      "Rank": 46977
     },
     {
       "Name": "topvideo.tj",
-      "Rank": 19534
+      "Rank": 19937
     },
     {
       "Name": "ttl.tj",
-      "Rank": 91152
+      "Rank": 94042
     },
     {
       "Name": "ttu.tj",
-      "Rank": 651788
+      "Rank": 638875
     },
     {
       "Name": "untj.org",
-      "Rank": 225592
+      "Rank": 193636
     },
     {
       "Name": "varzishtv.tj",
-      "Rank": 186217
+      "Rank": 190213
     },
     {
-      "Name": "vkd.tj",
-      "Rank": 411365
+      "Name": "viatube.xyz",
+      "Rank": 55307
     },
     {
       "Name": "volna.tj",
-      "Rank": 794985
+      "Rank": 422852
     }
   ]
 }

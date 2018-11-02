@@ -3,43 +3,43 @@
   "Domains": [
     {
       "Name": "bcsea.bt",
-      "Rank": 816996
+      "Rank": 255821
     },
     {
       "Name": "bdb.bt",
-      "Rank": 306372
+      "Rank": 517532
     },
     {
       "Name": "bpc.bt",
-      "Rank": 315775
+      "Rank": 322050
     },
     {
       "Name": "cst.edu.bt",
-      "Rank": 769577
+      "Rank": 243444
     },
     {
-      "Name": "ecb.bt",
-      "Rank": 259797
+      "Name": "hotel.bt",
+      "Rank": 810774
     },
     {
       "Name": "kuenselonline.com",
-      "Rank": 47299
+      "Rank": 101340
     },
     {
-      "Name": "mohca.gov.bt",
-      "Rank": 816563
+      "Name": "moic.gov.bt",
+      "Rank": 716059
     },
     {
       "Name": "mowhs.gov.bt",
-      "Rank": 569207
-    },
-    {
-      "Name": "nlcs.gov.bt",
-      "Rank": 420976
+      "Rank": 349223
     },
     {
       "Name": "nppf.org.bt",
-      "Rank": 638965
+      "Rank": 407179
+    },
+    {
+      "Name": "rsta.gov.bt",
+      "Rank": 533930
     }
   ]
 }

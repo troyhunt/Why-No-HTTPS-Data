@@ -2,204 +2,204 @@
   "CountryName": "Ecuador",
   "Domains": [
     {
-      "Name": "administracionpublica.gob.ec",
-      "Rank": 102401
+      "Name": "andinatel.com",
+      "Rank": 320394
     },
     {
       "Name": "atm.gob.ec",
-      "Rank": 252924
+      "Rank": 201546
+    },
+    {
+      "Name": "bolivariano.com",
+      "Rank": 99061
+    },
+    {
+      "Name": "centrosur.gob.ec",
+      "Rank": 349115
     },
     {
       "Name": "c-movil.com.ec",
-      "Rank": 181244
+      "Rank": 204858
     },
     {
-      "Name": "comisiontransito.gob.ec",
-      "Rank": 291232
-    },
-    {
-      "Name": "copol.edu.ec",
-      "Rank": 323716
-    },
-    {
-      "Name": "cordillera.edu.ec",
-      "Rank": 307693
+      "Name": "consuladovirtual.gob.ec",
+      "Rank": 258181
     },
     {
       "Name": "cpn.fin.ec",
-      "Rank": 173354
-    },
-    {
-      "Name": "deprati.com.ec",
-      "Rank": 285154
+      "Rank": 297191
     },
     {
       "Name": "ecuadorencifras.gob.ec",
-      "Rank": 198894
+      "Rank": 175679
     },
     {
       "Name": "ecuadorinmediato.com",
-      "Rank": 127202
+      "Rank": 167624
     },
     {
       "Name": "ecuadorlegalonline.com",
-      "Rank": 43756
+      "Rank": 73282
     },
     {
       "Name": "ecuagol.com",
-      "Rank": 18313
+      "Rank": 22192
     },
     {
       "Name": "eldiario.ec",
-      "Rank": 223111
-    },
-    {
-      "Name": "elfutbolero.com.ec",
-      "Rank": 288573
-    },
-    {
-      "Name": "elnorte.ec",
-      "Rank": 244120
+      "Rank": 167384
     },
     {
       "Name": "espol.edu.ec",
-      "Rank": 49080
-    },
-    {
-      "Name": "estadio.ec",
-      "Rank": 42113
+      "Rank": 48528
     },
     {
       "Name": "flacsoandes.edu.ec",
-      "Rank": 275173
+      "Rank": 198194
     },
     {
       "Name": "forosecuador.ec",
-      "Rank": 13453
+      "Rank": 5771
     },
     {
       "Name": "fullcarga-titan.com.ec",
-      "Rank": 145585
+      "Rank": 111578
     },
     {
       "Name": "funcionjudicial.gob.ec",
-      "Rank": 42881
+      "Rank": 39802
     },
     {
       "Name": "futbolecuador.com",
-      "Rank": 250263
+      "Rank": 28679
     },
     {
-      "Name": "guayaquil.gob.ec",
-      "Rank": 238362
+      "Name": "guiabiomagnetismo.com",
+      "Rank": 281862
     },
     {
       "Name": "iess.gob.ec",
-      "Rank": 15501
+      "Rank": 16991
     },
     {
-      "Name": "issfa.mil.ec",
-      "Rank": 158911
+      "Name": "los40.com.ec",
+      "Rank": 347167
     },
     {
       "Name": "loteria.com.ec",
-      "Rank": 164618
+      "Rank": 188192
     },
     {
       "Name": "mintel.gob.ec",
-      "Rank": 72620
+      "Rank": 51205
     },
     {
       "Name": "multitrabajos.com",
-      "Rank": 101379
+      "Rank": 75342
+    },
+    {
+      "Name": "nowdownload.ec",
+      "Rank": 314174
     },
     {
       "Name": "patiotuerca.com",
-      "Rank": 177545
+      "Rank": 115719
     },
     {
       "Name": "pichincha.com",
-      "Rank": 12282
+      "Rank": 13604
     },
     {
       "Name": "policiaecuador.gob.ec",
-      "Rank": 185112
+      "Rank": 278738
+    },
+    {
+      "Name": "produbanco.com",
+      "Rank": 55684
     },
     {
       "Name": "produbanco.com.ec",
-      "Rank": 137966
+      "Rank": 164144
     },
     {
       "Name": "quito.gob.ec",
-      "Rank": 189485
+      "Rank": 151533
     },
     {
       "Name": "radios.com.ec",
-      "Rank": 114261
+      "Rank": 151606
     },
     {
-      "Name": "rts.com.ec",
-      "Rank": 167179
-    },
-    {
-      "Name": "serbachiller.ec",
-      "Rank": 112964
+      "Name": "sni.gob.ec",
+      "Rank": 336147
     },
     {
       "Name": "socioempleo.gob.ec",
-      "Rank": 53186
+      "Rank": 60818
     },
     {
       "Name": "studiofutbol.com.ec",
-      "Rank": 35913
+      "Rank": 32588
     },
     {
       "Name": "teleamazonas.com",
-      "Rank": 8759
+      "Rank": 11905
     },
     {
       "Name": "trabajo.gob.ec",
-      "Rank": 71253
+      "Rank": 174332
     },
     {
       "Name": "uasb.edu.ec",
-      "Rank": 237261
+      "Rank": 215916
     },
     {
       "Name": "uce.edu.ec",
-      "Rank": 109072
+      "Rank": 73797
+    },
+    {
+      "Name": "ucsg.edu.ec",
+      "Rank": 173238
+    },
+    {
+      "Name": "ueb.edu.ec",
+      "Rank": 214522
     },
     {
       "Name": "ug.edu.ec",
-      "Rank": 69397
+      "Rank": 75768
     },
     {
       "Name": "uleam.edu.ec",
-      "Rank": 318050
+      "Rank": 122190
     },
     {
       "Name": "unl.edu.ec",
-      "Rank": 232506
+      "Rank": 219368
     },
     {
       "Name": "usfq.edu.ec",
-      "Rank": 192364
+      "Rank": 111976
     },
     {
-      "Name": "uta.edu.ec",
-      "Rank": 125071
+      "Name": "uteq.edu.ec",
+      "Rank": 290069
     },
     {
       "Name": "uti.edu.ec",
-      "Rank": 115862
+      "Rank": 174098
     },
     {
       "Name": "utmachala.edu.ec",
-      "Rank": 173505
+      "Rank": 168869
     },
     {
-      "Name": "vistazo.com",
-      "Rank": 116323
+      "Name": "utn.edu.ec",
+      "Rank": 113563
+    },
+    {
+      "Name": "voskanapat.info",
+      "Rank": 277424
     }
   ]
 }

@@ -3,131 +3,187 @@
   "Domains": [
     {
       "Name": "agora.md",
-      "Rank": 266669
+      "Rank": 639677
     },
     {
       "Name": "aif.md",
-      "Rank": 482079
+      "Rank": 353917
     },
     {
-      "Name": "ase.md",
-      "Rank": 351292
+      "Name": "asm.md",
+      "Rank": 598478
+    },
+    {
+      "Name": "autoblog.md",
+      "Rank": 548975
     },
     {
       "Name": "bloknot-moldova.md",
-      "Rank": 456880
+      "Rank": 689704
     },
     {
-      "Name": "cetatenieromana.md",
-      "Rank": 542566
+      "Name": "cargotrans.md",
+      "Rank": 394858
+    },
+    {
+      "Name": "citytour.md",
+      "Rank": 105600
     },
     {
       "Name": "diez.md",
-      "Rank": 304159
+      "Rank": 205484
     },
     {
       "Name": "dir.md",
-      "Rank": 431451
+      "Rank": 265106
     },
     {
       "Name": "ea.md",
-      "Rank": 858559
+      "Rank": 140010
+    },
+    {
+      "Name": "episcopia-ungheni.md",
+      "Rank": 872872
     },
     {
       "Name": "esp.md",
-      "Rank": 728545
+      "Rank": 243892
     },
     {
       "Name": "fisc.md",
-      "Rank": 275641
+      "Rank": 468724
+    },
+    {
+      "Name": "gagauz.md",
+      "Rank": 538264
     },
     {
       "Name": "gagauzinfo.md",
-      "Rank": 173648
+      "Rank": 505130
     },
     {
       "Name": "gospmr.org",
-      "Rank": 235071
+      "Rank": 254660
+    },
+    {
+      "Name": "hi-tech.md",
+      "Rank": 278755
     },
     {
       "Name": "idc.md",
-      "Rank": 442337
+      "Rank": 235198
     },
     {
       "Name": "idknet.com",
-      "Rank": 165668
+      "Rank": 116996
+    },
+    {
+      "Name": "ioanmosnegutu.info",
+      "Rank": 872874
     },
     {
       "Name": "jurnal.md",
-      "Rank": 127854
+      "Rank": 239991
     },
     {
       "Name": "jurnaltv.md",
-      "Rank": 128521
+      "Rank": 44752
     },
     {
       "Name": "justice.md",
-      "Rank": 480980
+      "Rank": 213734
     },
     {
-      "Name": "micb.md",
-      "Rank": 324662
+      "Name": "liderra.com",
+      "Rank": 686899
+    },
+    {
+      "Name": "limbaromana.md",
+      "Rank": 624326
+    },
+    {
+      "Name": "math.md",
+      "Rank": 335434
     },
     {
       "Name": "moldovenii.md",
-      "Rank": 788454
+      "Rank": 173159
     },
     {
       "Name": "mtc.md",
-      "Rank": 526664
+      "Rank": 828622
     },
     {
       "Name": "newsmaker.md",
-      "Rank": 168826
+      "Rank": 395955
+    },
+    {
+      "Name": "odoras.md",
+      "Rank": 563314
     },
     {
       "Name": "perfecte.md",
-      "Rank": 176827
+      "Rank": 312203
     },
     {
       "Name": "posta.md",
-      "Rank": 707270
-    },
-    {
-      "Name": "realitatea.md",
-      "Rank": 706394
+      "Rank": 230625
     },
     {
       "Name": "rp5.md",
-      "Rank": 705289
+      "Rank": 267744
     },
     {
-      "Name": "sports.md",
-      "Rank": 490387
+      "Name": "ruseller.org",
+      "Rank": 421628
     },
     {
       "Name": "techmeister-board.com",
-      "Rank": 669551
+      "Rank": 574077
     },
     {
       "Name": "today.md",
-      "Rank": 535840
+      "Rank": 724214
+    },
+    {
+      "Name": "travel365.md",
+      "Rank": 869490
+    },
+    {
+      "Name": "turuta.md",
+      "Rank": 798390
     },
     {
       "Name": "tv8.md",
-      "Rank": 158042
+      "Rank": 113734
+    },
+    {
+      "Name": "unica.md",
+      "Rank": 528433
+    },
+    {
+      "Name": "usm.md",
+      "Rank": 467030
     },
     {
       "Name": "usmf.md",
-      "Rank": 852987
+      "Rank": 445480
     },
     {
       "Name": "utm.md",
-      "Rank": 435952
+      "Rank": 241229
     },
     {
       "Name": "victoriabank.md",
-      "Rank": 345068
+      "Rank": 226082
+    },
+    {
+      "Name": "vulcanestimd.com",
+      "Rank": 633571
+    },
+    {
+      "Name": "yellowpages.md",
+      "Rank": 328432
     }
   ]
 }

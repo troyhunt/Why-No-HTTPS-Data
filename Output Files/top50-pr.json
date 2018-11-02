@@ -2,112 +2,88 @@
   "CountryName": "Puerto Rico",
   "Domains": [
     {
-      "Name": "caribbeancinemas.com",
-      "Rank": 98977
-    },
-    {
       "Name": "clasificadosonline.com",
-      "Rank": 28803
+      "Rank": 33189
     },
     {
-      "Name": "coqui.net",
-      "Rank": 837471
+      "Name": "dde.pr",
+      "Rank": 201633
     },
     {
       "Name": "dtop.gov.pr",
-      "Rank": 98534
+      "Rank": 307891
     },
     {
-      "Name": "globalsecuritynews.org",
-      "Rank": 434333
-    },
-    {
-      "Name": "goliathsystem.com",
-      "Rank": 417882
-    },
-    {
-      "Name": "gr.tn",
-      "Rank": 837531
+      "Name": "fondopr.com",
+      "Rank": 626564
     },
     {
       "Name": "iceyarns.com",
-      "Rank": 337579
-    },
-    {
-      "Name": "icprjc.edu",
-      "Rank": 481853
+      "Rank": 280508
     },
     {
       "Name": "inter.edu",
-      "Rank": 52930
+      "Rank": 65142
+    },
+    {
+      "Name": "intermedpr.com",
+      "Rank": 377215
     },
     {
       "Name": "libertypr.com",
-      "Rank": 135905
+      "Rank": 118761
     },
     {
       "Name": "magacin.com",
-      "Rank": 193179
-    },
-    {
-      "Name": "miagendapr.com",
-      "Rank": 422767
+      "Rank": 277886
     },
     {
       "Name": "periodicolaperla.com",
-      "Rank": 457940
+      "Rank": 448921
     },
     {
       "Name": "pr.gov",
-      "Rank": 36603
-    },
-    {
-      "Name": "primerahora.com",
-      "Rank": 13804
-    },
-    {
-      "Name": "progressivefinancepr.com",
-      "Rank": 837646
+      "Rank": 24482
     },
     {
       "Name": "ramajudicial.pr",
-      "Rank": 168287
+      "Rank": 203913
     },
     {
       "Name": "rapeton.com",
-      "Rank": 790558
+      "Rank": 373021
     },
     {
       "Name": "salud.gov.pr",
-      "Rank": 457944
+      "Rank": 442775
     },
     {
       "Name": "suagm.edu",
-      "Rank": 62988
+      "Rank": 58104
     },
     {
       "Name": "themelike.net",
-      "Rank": 273069
+      "Rank": 262463
     },
     {
       "Name": "ucb.edu.pr",
-      "Rank": 446705
+      "Rank": 298963
     },
     {
       "Name": "universia.pr",
-      "Rank": 247304
+      "Rank": 153477
+    },
+    {
+      "Name": "upr.edu",
+      "Rank": 38982
     },
     {
       "Name": "upra.edu",
-      "Rank": 210208
+      "Rank": 241133
     },
     {
       "Name": "uprrp.edu",
-      "Rank": 47953
-    },
-    {
-      "Name": "wipr.pr",
-      "Rank": 398008
+      "Rank": 45425
     }
   ]
 }

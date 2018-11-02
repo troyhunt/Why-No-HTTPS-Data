@@ -2,192 +2,204 @@
   "CountryName": "Bolivia, Plurinational State of",
   "Domains": [
     {
-      "Name": "aduana.gob.bo",
-      "Rank": 136109
+      "Name": "abc.gob.bo",
+      "Rank": 886871
+    },
+    {
+      "Name": "aevivienda.gob.bo",
+      "Rank": 864809
+    },
+    {
+      "Name": "amarillas.bo",
+      "Rank": 602881
+    },
+    {
+      "Name": "aspb.gob.bo",
+      "Rank": 445488
+    },
+    {
+      "Name": "bancounion.com.bo",
+      "Rank": 67397
     },
     {
       "Name": "boliviaimpuestos.com",
-      "Rank": 176742
+      "Rank": 165427
     },
     {
       "Name": "cambio.bo",
-      "Rank": 255434
+      "Rank": 212401
     },
     {
       "Name": "comunicacion.gob.bo",
-      "Rank": 790423
+      "Rank": 341466
     },
     {
       "Name": "correodelsur.com",
-      "Rank": 120319
+      "Rank": 90624
+    },
+    {
+      "Name": "descargasdmusica.blogspot.com",
+      "Rank": 790765
     },
     {
       "Name": "diez.bo",
-      "Rank": 108599
+      "Rank": 79381
     },
     {
-      "Name": "economiayfinanzas.gob.bo",
-      "Rank": 217642
-    },
-    {
-      "Name": "educabolivia.bo",
-      "Rank": 172590
+      "Name": "egpp.gob.bo",
+      "Rank": 493417
     },
     {
       "Name": "eju.tv",
-      "Rank": 74186
+      "Rank": 63934
     },
     {
       "Name": "eldeber.com.bo",
-      "Rank": 23778
+      "Rank": 18660
     },
     {
       "Name": "eldiario.net",
-      "Rank": 88120
+      "Rank": 90894
     },
     {
       "Name": "elmundo.com.bo",
-      "Rank": 536218
+      "Rank": 432641
     },
     {
       "Name": "ende.bo",
-      "Rank": 710341
+      "Rank": 515398
     },
     {
       "Name": "entel.bo",
-      "Rank": 194175
+      "Rank": 236756
     },
     {
       "Name": "fachadas-casas.com",
-      "Rank": 879231
+      "Rank": 786368
     },
     {
       "Name": "fassilnet.com.bo",
-      "Rank": 707530
+      "Rank": 862498
     },
     {
       "Name": "fundempresa.org.bo",
-      "Rank": 225121
+      "Rank": 451966
     },
     {
       "Name": "gacetaoficialdebolivia.gob.bo",
-      "Rank": 540918
-    },
-    {
-      "Name": "gente.com.bo",
-      "Rank": 337781
-    },
-    {
-      "Name": "horoscopo.bo",
-      "Rank": 304393
+      "Rank": 692146
     },
     {
       "Name": "ibce.org.bo",
-      "Rank": 775971
+      "Rank": 485284
     },
     {
-      "Name": "impuestosbolivia.com.bo",
-      "Rank": 825274
+      "Name": "kandire.bo",
+      "Rank": 798679
     },
     {
       "Name": "lapatriaenlinea.com",
-      "Rank": 104829
+      "Rank": 143431
     },
     {
       "Name": "laprensa.com.bo",
-      "Rank": 426974
+      "Rank": 481567
     },
     {
       "Name": "la-razon.com",
-      "Rank": 42408
+      "Rank": 44079
     },
     {
       "Name": "lostiempos.com",
-      "Rank": 34848
+      "Rank": 27675
     },
     {
       "Name": "megalink.com",
-      "Rank": 843393
+      "Rank": 360154
     },
     {
       "Name": "minedu.gob.bo",
-      "Rank": 99121
+      "Rank": 150964
+    },
+    {
+      "Name": "mineria.gob.bo",
+      "Rank": 562204
     },
     {
       "Name": "opinion.com.bo",
-      "Rank": 108417
+      "Rank": 111684
     },
     {
       "Name": "prevision.com.bo",
-      "Rank": 167252
+      "Rank": 112725
     },
     {
       "Name": "radios.com.bo",
-      "Rank": 68774
+      "Rank": 102594
     },
     {
       "Name": "redbolivision.tv.bo",
-      "Rank": 492935
+      "Rank": 291845
     },
     {
       "Name": "revistasbolivianas.org.bo",
-      "Rank": 241927
+      "Rank": 151873
     },
     {
       "Name": "santacruz.gob.bo",
-      "Rank": 426372
+      "Rank": 480205
     },
     {
       "Name": "scielo.org.bo",
-      "Rank": 84772
-    },
-    {
-      "Name": "senado.gob.bo",
-      "Rank": 840545
+      "Rank": 68863
     },
     {
       "Name": "sie.gob.bo",
-      "Rank": 297292
+      "Rank": 238588
     },
     {
       "Name": "sociales.com.bo",
-      "Rank": 137398
+      "Rank": 140316
+    },
+    {
+      "Name": "uatf.edu.bo",
+      "Rank": 726134
     },
     {
       "Name": "ucb.edu.bo",
-      "Rank": 295148
+      "Rank": 237468
     },
     {
       "Name": "ucbscz.edu.bo",
-      "Rank": 268164
+      "Rank": 380849
     },
     {
       "Name": "umsa.bo",
-      "Rank": 56402
-    },
-    {
-      "Name": "umsa.edu.bo",
-      "Rank": 524465
+      "Rank": 72341
     },
     {
       "Name": "unefco.edu.bo",
-      "Rank": 703265
+      "Rank": 803694
     },
     {
       "Name": "universia.com.bo",
-      "Rank": 649015
+      "Rank": 746986
+    },
+    {
+      "Name": "upb.edu",
+      "Rank": 331227
     },
     {
       "Name": "upds.edu.bo",
-      "Rank": 797560
+      "Rank": 405266
     },
     {
       "Name": "upedagogica.edu.bo",
-      "Rank": 299554
+      "Rank": 373987
     },
     {
       "Name": "vipfe.gob.bo",
-      "Rank": 559779
+      "Rank": 886872
     }
   ]
 }

@@ -3,55 +3,71 @@
   "Domains": [
     {
       "Name": "blueline.mg",
-      "Rank": 284866
+      "Rank": 258245
     },
     {
       "Name": "boa.mg",
-      "Rank": 296890
+      "Rank": 592597
     },
     {
-      "Name": "lesjta.com",
-      "Rank": 243093
+      "Name": "edbm.mg",
+      "Rank": 725008
+    },
+    {
+      "Name": "e-radin.com",
+      "Rank": 706511
+    },
+    {
+      "Name": "gasynet.mg",
+      "Rank": 424005
+    },
+    {
+      "Name": "laverite.mg",
+      "Rank": 877126
     },
     {
       "Name": "lily.mg",
-      "Rank": 431485
+      "Rank": 417607
     },
     {
       "Name": "mail.gov.mg",
-      "Rank": 176463
+      "Rank": 152994
+    },
+    {
+      "Name": "matin.mg",
+      "Rank": 458149
     },
     {
       "Name": "midi-madagasikara.mg",
-      "Rank": 52763
+      "Rank": 44959
     },
     {
       "Name": "moov.mg",
-      "Rank": 46509
+      "Rank": 60853
     },
     {
       "Name": "presidence.gov.mg",
-      "Rank": 148539
+      "Rank": 862579
     },
     {
       "Name": "primature.gov.mg",
-      "Rank": 339378
-    },
-    {
-      "Name": "radio.mg",
-      "Rank": 644876
+      "Rank": 694191
     },
     {
       "Name": "serasera.org",
-      "Rank": 188456
+      "Rank": 167497
     },
     {
       "Name": "telma.mg",
-      "Rank": 289031
+      "Rank": 338838
     },
     {
       "Name": "univ-antananarivo.mg",
-      "Rank": 302326
+      "Rank": 177396
+    },
+    {
+      "Name": "univ-toliara.mg",
+      "Rank": 693944
     }
   ]
 }

@@ -2,88 +2,104 @@
   "CountryName": "Rwanda",
   "Domains": [
     {
+      "Name": "cartoucherecharge.fr",
+      "Rank": 378598
+    },
+    {
       "Name": "eachamps.rw",
-      "Rank": 64521
+      "Rank": 89371
     },
     {
       "Name": "embassy.gov.rw",
-      "Rank": 148760
+      "Rank": 211646
     },
     {
       "Name": "inyarwanda.com",
-      "Rank": 27096
+      "Rank": 27339
     },
     {
       "Name": "irembo.gov.rw",
-      "Rank": 61450
-    },
-    {
-      "Name": "kigalitoday.com",
-      "Rank": 246945
+      "Rank": 80938
     },
     {
       "Name": "loda.gov.rw",
-      "Rank": 384292
+      "Rank": 518869
     },
     {
       "Name": "mifotra.gov.rw",
-      "Rank": 96734
+      "Rank": 60489
     },
     {
       "Name": "minecofin.gov.rw",
-      "Rank": 381601
+      "Rank": 458036
     },
     {
       "Name": "mineduc.gov.rw",
-      "Rank": 485901
+      "Rank": 210040
     },
     {
       "Name": "moh.gov.rw",
-      "Rank": 530986
+      "Rank": 352090
+    },
+    {
+      "Name": "primature.gov.rw",
+      "Rank": 538679
     },
     {
       "Name": "rba.co.rw",
-      "Rank": 302565
+      "Rank": 376603
     },
     {
       "Name": "rdb.rw",
-      "Rank": 95397
+      "Rank": 393942
+    },
+    {
+      "Name": "reb.rw",
+      "Rank": 489511
+    },
+    {
+      "Name": "reg.rw",
+      "Rank": 828677
     },
     {
       "Name": "rp.ac.rw",
-      "Rank": 271929
+      "Rank": 235163
     },
     {
       "Name": "rra.gov.rw",
-      "Rank": 97031
+      "Rank": 115124
     },
     {
       "Name": "ruhagoyacu.com",
-      "Rank": 221482
+      "Rank": 409629
     },
     {
       "Name": "rwandapaparazzi.rw",
-      "Rank": 62869
+      "Rank": 419741
     },
     {
       "Name": "statistics.gov.rw",
-      "Rank": 512256
+      "Rank": 285821
     },
     {
       "Name": "ukwezi.rw",
-      "Rank": 416722
+      "Rank": 329068
     },
     {
-      "Name": "ulk.ac.rw",
-      "Rank": 548913
+      "Name": "umucyo.gov.rw",
+      "Rank": 290778
     },
     {
       "Name": "umuryango.rw",
-      "Rank": 37131
+      "Rank": 25826
     },
     {
       "Name": "ur.ac.rw",
-      "Rank": 82218
+      "Rank": 71500
+    },
+    {
+      "Name": "wasac.rw",
+      "Rank": 633202
     }
   ]
 }

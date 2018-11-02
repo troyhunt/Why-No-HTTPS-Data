@@ -3,23 +3,27 @@
   "Domains": [
     {
       "Name": "bsp.com.fj",
-      "Rank": 264753
+      "Rank": 474881
+    },
+    {
+      "Name": "connect.com.fj",
+      "Rank": 388315
     },
     {
       "Name": "fbc.com.fj",
-      "Rank": 252963
+      "Rank": 182171
+    },
+    {
+      "Name": "fiji.gov.fj",
+      "Rank": 827362
     },
     {
       "Name": "fijisun.com.fj",
-      "Rank": 226234
-    },
-    {
-      "Name": "fijitimes.com",
-      "Rank": 142331
+      "Rank": 147260
     },
     {
       "Name": "fijivillage.com",
-      "Rank": 175089
+      "Rank": 142854
     }
   ]
 }

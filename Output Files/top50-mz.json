@@ -2,88 +2,96 @@
   "CountryName": "Mozambique",
   "Domains": [
     {
+      "Name": "app.co.mz",
+      "Rank": 882191
+    },
+    {
       "Name": "bancomoc.mz",
-      "Rank": 272099
+      "Rank": 262386
     },
     {
       "Name": "bancounico.co.mz",
-      "Rank": 347776
+      "Rank": 593264
+    },
+    {
+      "Name": "fdc.org.mz",
+      "Rank": 894490
     },
     {
       "Name": "fnb.co.mz",
-      "Rank": 458208
+      "Rank": 745722
     },
     {
       "Name": "folhademaputo.co.mz",
-      "Rank": 221510
+      "Rank": 237266
     },
     {
       "Name": "game.co.mz",
-      "Rank": 517438
+      "Rank": 791978
+    },
+    {
+      "Name": "infodiario.co.mz",
+      "Rank": 673158
     },
     {
       "Name": "isced.ac.mz",
-      "Rank": 176765
+      "Rank": 256119
+    },
+    {
+      "Name": "jornaldomingo.co.mz",
+      "Rank": 532902
     },
     {
       "Name": "jornalnoticias.co.mz",
-      "Rank": 178570
+      "Rank": 49448
     },
     {
-      "Name": "macua.blogs.com",
-      "Rank": 139173
-    },
-    {
-      "Name": "millenniumbim.co.mz",
-      "Rank": 84295
+      "Name": "mined.gov.mz",
+      "Rank": 306635
     },
     {
       "Name": "miramar.co.mz",
-      "Rank": 456559
+      "Rank": 410137
     },
     {
       "Name": "mitess.gov.mz",
-      "Rank": 650564
-    },
-    {
-      "Name": "moneris.pt",
-      "Rank": 621151
+      "Rank": 558440
     },
     {
       "Name": "mozentretenimento.co.mz",
-      "Rank": 780958
+      "Rank": 433861
+    },
+    {
+      "Name": "moztrends.com",
+      "Rank": 93139
     },
     {
       "Name": "nordarciopro.net",
-      "Rank": 116473
-    },
-    {
-      "Name": "planetarapluso.blogspot.com",
-      "Rank": 116987
-    },
-    {
-      "Name": "portaldogoverno.gov.mz",
-      "Rank": 419321
+      "Rank": 505649
     },
     {
       "Name": "sapo.mz",
-      "Rank": 53223
+      "Rank": 22933
+    },
+    {
+      "Name": "stv.co.mz",
+      "Rank": 138614
     },
     {
       "Name": "tvm.co.mz",
-      "Rank": 880050
+      "Rank": 608000
     },
     {
       "Name": "ucm.ac.mz",
-      "Rank": 262344
+      "Rank": 168780
     },
     {
       "Name": "uem.mz",
-      "Rank": 96215
+      "Rank": 41383
     },
     {
       "Name": "verdade.co.mz",
-      "Rank": 212094
+      "Rank": 203076
     }
   ]
 }

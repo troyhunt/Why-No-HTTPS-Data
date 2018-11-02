@@ -2,204 +2,204 @@
   "CountryName": "Costa Rica",
   "Domains": [
     {
+      "Name": "archivonacional.go.cr",
+      "Rank": 692324
+    },
+    {
       "Name": "automercado.cr",
-      "Rank": 343290
+      "Rank": 365348
     },
     {
       "Name": "bancobcr.com",
-      "Rank": 15494
+      "Rank": 15471
     },
     {
-      "Name": "betgotham.com",
-      "Rank": 491299
+      "Name": "ccmcinemas.com",
+      "Rank": 692329
     },
     {
       "Name": "cfia.or.cr",
-      "Rank": 248810
+      "Rank": 125701
+    },
+    {
+      "Name": "cinemarkca.com",
+      "Rank": 91568
     },
     {
       "Name": "cinepolis.co.cr",
-      "Rank": 146046
-    },
-    {
-      "Name": "coescomunicacion.com",
-      "Rank": 546552
+      "Rank": 242791
     },
     {
       "Name": "corteidh.or.cr",
-      "Rank": 420270
+      "Rank": 99773
+    },
+    {
+      "Name": "costaricanoticias.cr",
+      "Rank": 283145
     },
     {
       "Name": "costarricense.cr",
-      "Rank": 328444
+      "Rank": 300452
     },
     {
       "Name": "crautos.com",
-      "Rank": 64093
+      "Rank": 84765
     },
     {
       "Name": "crc.cr",
-      "Rank": 581425
+      "Rank": 599144
+    },
+    {
+      "Name": "crhoy.com",
+      "Rank": 1506
     },
     {
       "Name": "davivienda.cr",
-      "Rank": 114499
+      "Rank": 130894
     },
     {
       "Name": "diarioextra.com",
-      "Rank": 38517
+      "Rank": 44621
     },
     {
       "Name": "educacionvial.go.cr",
-      "Rank": 245171
+      "Rank": 236133
     },
     {
       "Name": "elmundo.cr",
-      "Rank": 17275
+      "Rank": 15468
     },
     {
       "Name": "elpais.cr",
-      "Rank": 166361
+      "Rank": 628826
     },
     {
       "Name": "everardoherrera.com",
-      "Rank": 107913
-    },
-    {
-      "Name": "evisos.co.cr",
-      "Rank": 581431
+      "Rank": 89338
     },
     {
       "Name": "extremetechcr.com",
-      "Rank": 158285
-    },
-    {
-      "Name": "grupomutual.fi.cr",
-      "Rank": 581438
+      "Rank": 127583
     },
     {
       "Name": "hacienda.go.cr",
-      "Rank": 37646
-    },
-    {
-      "Name": "iidh.ed.cr",
-      "Rank": 489253
+      "Rank": 24644
     },
     {
       "Name": "insdirecto.com",
-      "Rank": 401428
+      "Rank": 373348
     },
     {
       "Name": "institutobudadharma.org",
-      "Rank": 250728
+      "Rank": 291995
     },
     {
-      "Name": "itcr.ac.cr",
-      "Rank": 716026
+      "Name": "jps.go.cr",
+      "Rank": 112806
     },
     {
       "Name": "laprensalibre.cr",
-      "Rank": 90391
+      "Rank": 84653
     },
     {
       "Name": "mag.go.cr",
-      "Rank": 453845
+      "Rank": 543064
+    },
+    {
+      "Name": "mainstreetaffiliates.com",
+      "Rank": 598989
+    },
+    {
+      "Name": "mariosegura.com",
+      "Rank": 509972
     },
     {
       "Name": "monumental.co.cr",
-      "Rank": 205425
+      "Rank": 126147
     },
     {
-      "Name": "movistar.cr",
-      "Rank": 269257
+      "Name": "mtss.go.cr",
+      "Rank": 68919
+    },
+    {
+      "Name": "namutravelgroup.com",
+      "Rank": 725586
     },
     {
       "Name": "ned.cl",
-      "Rank": 195131
-    },
-    {
-      "Name": "novacinemas.cr",
-      "Rank": 716030
+      "Rank": 192257
     },
     {
       "Name": "pgrweb.go.cr",
-      "Rank": 266315
+      "Rank": 119259
     },
     {
       "Name": "quarzo.com",
-      "Rank": 379570
+      "Rank": 232028
     },
     {
       "Name": "racsa.co.cr",
-      "Rank": 111455
+      "Rank": 104224
     },
     {
       "Name": "radios.co.cr",
-      "Rank": 93777
+      "Rank": 88590
     },
     {
       "Name": "recargas.cr",
-      "Rank": 379571
+      "Rank": 440342
     },
     {
       "Name": "red44.com",
-      "Rank": 530368
+      "Rank": 179679
     },
     {
       "Name": "registronacional.go.cr",
-      "Rank": 143181
+      "Rank": 599156
     },
     {
       "Name": "repretel.com",
-      "Rank": 4641
+      "Rank": 4095
     },
     {
       "Name": "rnpdigital.com",
-      "Rank": 43819
+      "Rank": 61364
     },
     {
-      "Name": "snitcr.go.cr",
-      "Rank": 240028
+      "Name": "steren.cr",
+      "Rank": 222834
     },
     {
-      "Name": "stream.cr",
-      "Rank": 384564
+      "Name": "tarifario.org",
+      "Rank": 548224
     },
     {
       "Name": "telecablecr.com",
-      "Rank": 439023
+      "Rank": 469166
     },
     {
       "Name": "teledolar.com",
-      "Rank": 196647
+      "Rank": 140100
     },
     {
       "Name": "tse.go.cr",
-      "Rank": 54746
+      "Rank": 52147
     },
     {
       "Name": "tvsur.co.cr",
-      "Rank": 269328
-    },
-    {
-      "Name": "ucr.ac.cr",
-      "Rank": 18432
+      "Rank": 548982
     },
     {
       "Name": "universia.cr",
-      "Rank": 171090
+      "Rank": 245507
     },
     {
       "Name": "utn.ac.cr",
-      "Rank": 135730
-    },
-    {
-      "Name": "vodly.cr",
-      "Rank": 644407
+      "Rank": 164325
     },
     {
       "Name": "wootit.cr",
-      "Rank": 116224
+      "Rank": 52573
     }
   ]
 }

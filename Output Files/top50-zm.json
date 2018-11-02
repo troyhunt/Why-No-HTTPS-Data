@@ -3,59 +3,67 @@
   "Domains": [
     {
       "Name": "daily-mail.co.zm",
-      "Rank": 183482
+      "Rank": 155407
+    },
+    {
+      "Name": "exams-council.org.zm",
+      "Rank": 167391
+    },
+    {
+      "Name": "gsb.co.zm",
+      "Rank": 491892
+    },
+    {
+      "Name": "iconnect.zm",
+      "Rank": 808090
     },
     {
       "Name": "investrustbank-ebanking.co.zm",
-      "Rank": 606694
+      "Rank": 520045
     },
     {
       "Name": "izb.co.zm",
-      "Rank": 491017
+      "Rank": 621406
     },
     {
       "Name": "microlink.zm",
-      "Rank": 639943
+      "Rank": 446165
     },
     {
       "Name": "mu.ac.zm",
-      "Rank": 60904
+      "Rank": 175669
     },
     {
       "Name": "napsa.co.zm",
-      "Rank": 268857
+      "Rank": 150632
     },
     {
       "Name": "pacra.org.zm",
-      "Rank": 541071
-    },
-    {
-      "Name": "tcz.ac.zm",
-      "Rank": 446066
+      "Rank": 508887
     },
     {
       "Name": "tumfweko.com",
-      "Rank": 136482
+      "Rank": 130748
     },
     {
       "Name": "unilus.ac.zm",
-      "Rank": 192733
+      "Rank": 181305
     },
     {
       "Name": "zambiaimmigration.gov.zm",
-      "Rank": 214966
+      "Rank": 434127
     },
     {
       "Name": "zambiantunes.com",
-      "Rank": 857986
+      "Rank": 557830
     },
     {
       "Name": "zaou.ac.zm",
-      "Rank": 277621
+      "Rank": 455733
     },
     {
       "Name": "zica.co.zm",
-      "Rank": 261696
+      "Rank": 564645
     }
   ]
 }

@@ -2,36 +2,48 @@
   "CountryName": "Zimbabwe",
   "Domains": [
     {
-      "Name": "cabs.co.zw",
-      "Rank": 345875
+      "Name": "cut.ac.zw",
+      "Rank": 621638
     },
     {
       "Name": "hmetro.co.zw",
-      "Rank": 249262
+      "Rank": 468859
     },
     {
       "Name": "nehandaradio.com",
-      "Rank": 63883
+      "Rank": 66540
     },
     {
       "Name": "nust.ac.zw",
-      "Rank": 829990
+      "Rank": 374339
+    },
+    {
+      "Name": "posb.co.zw",
+      "Rank": 564826
     },
     {
       "Name": "starfm.co.zw",
-      "Rank": 821914
+      "Rank": 231941
+    },
+    {
+      "Name": "sundaymail.co.zw",
+      "Rank": 203033
     },
     {
       "Name": "thedirectory.co.zw",
-      "Rank": 485972
+      "Rank": 508524
     },
     {
       "Name": "vacancymail.co.zw",
-      "Rank": 179587
+      "Rank": 164275
     },
     {
       "Name": "zbc.co.zw",
-      "Rank": 379486
+      "Rank": 213159
+    },
+    {
+      "Name": "zifmstereo.co.zw",
+      "Rank": 129234
     }
   ]
 }

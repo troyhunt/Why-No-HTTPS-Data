@@ -2,80 +2,68 @@
   "CountryName": "Nicaragua",
   "Domains": [
     {
+      "Name": "aldeasinfantilessos.org",
+      "Rank": 91305
+    },
+    {
       "Name": "bcn.gob.ni",
-      "Rank": 173213
+      "Rank": 150272
     },
     {
       "Name": "canal10.com.ni",
-      "Rank": 293962
+      "Rank": 301151
     },
     {
       "Name": "canal4.com.ni",
-      "Rank": 603763
+      "Rank": 687057
     },
     {
       "Name": "cootel.com.ni",
-      "Rank": 349071
+      "Rank": 832892
     },
     {
       "Name": "diariometro.com.ni",
-      "Rank": 413012
+      "Rank": 256569
     },
     {
       "Name": "hoy.com.ni",
-      "Rank": 233823
-    },
-    {
-      "Name": "ineter.gob.ni",
-      "Rank": 240760
+      "Rank": 153201
     },
     {
       "Name": "inifom.gob.ni",
-      "Rank": 638289
+      "Rank": 381690
     },
     {
       "Name": "lavozdelsandinismo.com",
-      "Rank": 142838
-    },
-    {
-      "Name": "loterianacional.com.ni",
-      "Rank": 283387
+      "Rank": 117937
     },
     {
       "Name": "movistar.com.ni",
-      "Rank": 302295
+      "Rank": 206114
     },
     {
       "Name": "nicaraguacompra.gob.ni",
-      "Rank": 259093
+      "Rank": 232476
     },
     {
       "Name": "radiolaprimerisima.com",
-      "Rank": 183173
+      "Rank": 198011
     },
     {
       "Name": "radios.co.ni",
-      "Rank": 139587
-    },
-    {
-      "Name": "trincheraonline.com",
-      "Rank": 426991
+      "Rank": 154771
     },
     {
       "Name": "ucc.edu.ni",
-      "Rank": 246967
+      "Rank": 814558
     },
     {
       "Name": "unan.edu.ni",
-      "Rank": 122160
-    },
-    {
-      "Name": "uni.edu.ni",
-      "Rank": 283906
+      "Rank": 36887
     },
     {
       "Name": "uraccan.edu.ni",
-      "Rank": 460029
+      "Rank": 520078
     }
   ]
 }

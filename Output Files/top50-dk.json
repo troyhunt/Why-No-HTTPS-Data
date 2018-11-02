@@ -2,204 +2,204 @@
   "CountryName": "Denmark",
   "Domains": [
     {
+      "Name": "ah.dk",
+      "Rank": 148013
+    },
+    {
       "Name": "aku-aalborg.dk",
-      "Rank": 173072
-    },
-    {
-      "Name": "alal3ab.net",
-      "Rank": 186351
-    },
-    {
-      "Name": "alhekme.com",
-      "Rank": 137875
-    },
-    {
-      "Name": "andelskassen.dk",
-      "Rank": 100490
-    },
-    {
-      "Name": "aok.dk",
-      "Rank": 160671
+      "Rank": 173058
     },
     {
       "Name": "au.dk",
-      "Rank": 6396
+      "Rank": 5946
     },
     {
       "Name": "besoeglaegen.dk",
-      "Rank": 129371
+      "Rank": 82247
     },
     {
-      "Name": "bloggersdelight.dk",
-      "Rank": 113876
+      "Name": "brimamodels.com",
+      "Rank": 176571
     },
     {
-      "Name": "bodybuilding.dk",
-      "Rank": 184692
+      "Name": "bullzip.com",
+      "Rank": 178024
+    },
+    {
+      "Name": "cphpost.dk",
+      "Rank": 165772
+    },
+    {
+      "Name": "danmarkshistorien.dk",
+      "Rank": 186352
     },
     {
       "Name": "denstoredanske.dk",
-      "Rank": 43027
+      "Rank": 25942
     },
     {
-      "Name": "dinh.dk",
-      "Rank": 162682
+      "Name": "dindebat.dk",
+      "Rank": 141904
     },
     {
       "Name": "dmi.dk",
-      "Rank": 14234
+      "Rank": 16753
     },
     {
-      "Name": "dtu.dk",
-      "Rank": 11923
+      "Name": "dragonballsuper-vostfr.com",
+      "Rank": 95614
     },
     {
       "Name": "dust2.dk",
-      "Rank": 101135
+      "Rank": 87121
     },
     {
       "Name": "emilkirkegaard.dk",
-      "Rank": 124272
+      "Rank": 171133
     },
     {
       "Name": "emply.net",
-      "Rank": 90132
-    },
-    {
-      "Name": "esalat.org",
-      "Rank": 183920
-    },
-    {
-      "Name": "fcbarcelona.dk",
-      "Rank": 160216
-    },
-    {
-      "Name": "food-info.net",
-      "Rank": 110746
+      "Rank": 130153
     },
     {
       "Name": "gaffa.dk",
-      "Rank": 109813
+      "Rank": 141065
     },
     {
       "Name": "ge.tt",
-      "Rank": 25173
+      "Rank": 48047
     },
     {
-      "Name": "gyldendal.dk",
-      "Rank": 22716
+      "Name": "incharge.rocks",
+      "Rank": 148259
     },
     {
       "Name": "indkast.dk",
-      "Rank": 104833
+      "Rank": 150835
     },
     {
       "Name": "insigit.com",
-      "Rank": 25670
+      "Rank": 88796
     },
     {
       "Name": "kb.dk",
-      "Rank": 101895
+      "Rank": 56232
     },
     {
-      "Name": "laerdansk.dk",
-      "Rank": 108983
+      "Name": "kommunikationsforum.dk",
+      "Rank": 113803
+    },
+    {
+      "Name": "livehere.one",
+      "Rank": 111685
+    },
+    {
+      "Name": "logickeyboard.com",
+      "Rank": 195896
     },
     {
       "Name": "lokalavisen.dk",
-      "Rank": 141369
-    },
-    {
-      "Name": "lomax.dk",
-      "Rank": 135908
-    },
-    {
-      "Name": "lygte-info.dk",
-      "Rank": 174648
-    },
-    {
-      "Name": "marketingyservicios.com",
-      "Rank": 148998
+      "Rank": 141842
     },
     {
       "Name": "medicin.dk",
-      "Rank": 182762
+      "Rank": 74554
+    },
+    {
+      "Name": "mikkeller.dk",
+      "Rank": 146367
+    },
+    {
+      "Name": "nationalbanken.dk",
+      "Rank": 176299
     },
     {
       "Name": "national-offers.com",
-      "Rank": 38067
+      "Rank": 59759
     },
     {
-      "Name": "peoplexs.com",
-      "Rank": 125219
+      "Name": "onemotion.com",
+      "Rank": 128878
     },
     {
       "Name": "perbang.dk",
-      "Rank": 162372
+      "Rank": 150233
     },
     {
       "Name": "pro7livestream.com",
-      "Rank": 40283
+      "Rank": 142700
+    },
+    {
+      "Name": "regneregler.dk",
+      "Rank": 96512
     },
     {
       "Name": "rejseplanen.dk",
-      "Rank": 54523
-    },
-    {
-      "Name": "rm.dk",
-      "Rank": 182481
+      "Rank": 20585
     },
     {
       "Name": "sanger.dk",
-      "Rank": 119404
+      "Rank": 142264
     },
     {
       "Name": "scandihealth.net",
-      "Rank": 125607
+      "Rank": 166897
     },
     {
       "Name": "shb.dk",
-      "Rank": 66354
+      "Rank": 182546
     },
     {
       "Name": "soundvenue.com",
-      "Rank": 46061
+      "Rank": 83748
+    },
+    {
+      "Name": "spinmytraffic.com",
+      "Rank": 78760
     },
     {
       "Name": "statsbiblioteket.dk",
-      "Rank": 80073
+      "Rank": 55311
     },
     {
       "Name": "studyindenmark.dk",
-      "Rank": 55755
+      "Rank": 128849
     },
     {
       "Name": "su.dk",
-      "Rank": 24166
+      "Rank": 52499
+    },
+    {
+      "Name": "superchat.dk",
+      "Rank": 154095
     },
     {
       "Name": "temosoft.com",
-      "Rank": 174218
+      "Rank": 143095
     },
     {
-      "Name": "tobys.dk",
-      "Rank": 172610
+      "Name": "tg-news24.com",
+      "Rank": 183437
     },
     {
       "Name": "tv2.dk",
-      "Rank": 7975
+      "Rank": 8923
     },
     {
       "Name": "um.dk",
-      "Rank": 146084
+      "Rank": 42569
     },
     {
       "Name": "unblockedrarbg.org",
-      "Rank": 141054
+      "Rank": 72703
     },
     {
       "Name": "websdr.org",
-      "Rank": 95319
+      "Rank": 174232
+    },
+    {
+      "Name": "worldyouth2018.com",
+      "Rank": 74902
     }
   ]
 }

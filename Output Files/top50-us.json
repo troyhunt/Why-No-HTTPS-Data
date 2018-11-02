@@ -3,203 +3,203 @@
   "Domains": [
     {
       "Name": "4chan.org",
-      "Rank": 419
+      "Rank": 631
     },
     {
       "Name": "bbc.com",
-      "Rank": 123
+      "Rank": 98
     },
     {
       "Name": "ca.gov",
-      "Rank": 634
+      "Rank": 521
+    },
+    {
+      "Name": "certifyads.com",
+      "Rank": 1257
     },
     {
       "Name": "chegg.com",
-      "Rank": 864
+      "Rank": 341
+    },
+    {
+      "Name": "citationmachine.net",
+      "Rank": 1249
+    },
+    {
+      "Name": "cornell.edu",
+      "Rank": 1293
     },
     {
       "Name": "crptentry.com",
-      "Rank": 345
+      "Rank": 244
     },
     {
       "Name": "crunchyroll.com",
-      "Rank": 747
-    },
-    {
-      "Name": "dailycaller.com",
-      "Rank": 1011
-    },
-    {
-      "Name": "dnvod.tv",
-      "Rank": 1374
+      "Rank": 768
     },
     {
       "Name": "doublepimpssl.com",
-      "Rank": 396
+      "Rank": 477
     },
     {
       "Name": "drudgereport.com",
-      "Rank": 656
+      "Rank": 598
     },
     {
       "Name": "e-hentai.org",
-      "Rank": 726
-    },
-    {
-      "Name": "epital.gdn",
-      "Rank": 190
+      "Rank": 721
     },
     {
       "Name": "espn.com",
-      "Rank": 78
+      "Rank": 70
     },
     {
       "Name": "expedia.com",
-      "Rank": 722
+      "Rank": 708
     },
     {
-      "Name": "foxnews.com",
-      "Rank": 260
-    },
-    {
-      "Name": "furaffinity.net",
-      "Rank": 1405
+      "Name": "fandom.com",
+      "Rank": 293
     },
     {
       "Name": "gfycat.com",
-      "Rank": 326
+      "Rank": 358
     },
     {
       "Name": "go.com",
-      "Rank": 541
-    },
-    {
-      "Name": "golnk5.com",
-      "Rank": 1229
+      "Rank": 537
     },
     {
       "Name": "gstatic.com",
-      "Rank": 710
+      "Rank": 571
     },
     {
-      "Name": "hltv.org",
-      "Rank": 1317
+      "Name": "hm.com",
+      "Rank": 559
     },
     {
-      "Name": "igg-games.com",
-      "Rank": 1066
+      "Name": "jsmcrjmp.com",
+      "Rank": 1064
     },
     {
       "Name": "kissanime.ru",
-      "Rank": 436
+      "Rank": 419
     },
     {
-      "Name": "kissmanga.com",
-      "Rank": 1171
-    },
-    {
-      "Name": "latimes.com",
-      "Rank": 1283
-    },
-    {
-      "Name": "lifedaily.com",
-      "Rank": 756
+      "Name": "lenovo.com",
+      "Rank": 777
     },
     {
       "Name": "media.tumblr.com",
-      "Rank": 648
-    },
-    {
-      "Name": "metacritic.com",
-      "Rank": 1112
+      "Rank": 759
     },
     {
       "Name": "mit.edu",
-      "Rank": 587
+      "Rank": 507
+    },
+    {
+      "Name": "mptentry.com",
+      "Rank": 1028
     },
     {
       "Name": "myshopify.com",
-      "Rank": 262
-    },
-    {
-      "Name": "noaa.gov",
-      "Rank": 1244
-    },
-    {
-      "Name": "nyacampwk.com",
-      "Rank": 499
-    },
-    {
-      "Name": "op.gg",
-      "Rank": 368
-    },
-    {
-      "Name": "patch.com",
-      "Rank": 496
-    },
-    {
-      "Name": "php.net",
-      "Rank": 1259
-    },
-    {
-      "Name": "rarbg.to",
-      "Rank": 399
-    },
-    {
-      "Name": "roblox.com",
-      "Rank": 119
-    },
-    {
-      "Name": "scribol.com",
-      "Rank": 881
-    },
-    {
-      "Name": "sex.com",
-      "Rank": 342
-    },
-    {
-      "Name": "sonyentertainmentnetwork.com",
-      "Rank": 994
-    },
-    {
-      "Name": "sopawfect.com",
-      "Rank": 1356
-    },
-    {
-      "Name": "speedtest.net",
       "Rank": 236
     },
     {
+      "Name": "nba.com",
+      "Rank": 418
+    },
+    {
+      "Name": "oload.icu",
+      "Rank": 610
+    },
+    {
+      "Name": "op.gg",
+      "Rank": 345
+    },
+    {
+      "Name": "oup.com",
+      "Rank": 1041
+    },
+    {
+      "Name": "patch.com",
+      "Rank": 503
+    },
+    {
+      "Name": "pearsoncmg.com",
+      "Rank": 1014
+    },
+    {
+      "Name": "php.net",
+      "Rank": 1103
+    },
+    {
+      "Name": "rarbg.to",
+      "Rank": 376
+    },
+    {
+      "Name": "ratemyprofessors.com",
+      "Rank": 1031
+    },
+    {
+      "Name": "s4yxaqyq95.com",
+      "Rank": 971
+    },
+    {
+      "Name": "search-engine.pro",
+      "Rank": 1193
+    },
+    {
+      "Name": "sonyentertainmentnetwork.com",
+      "Rank": 1226
+    },
+    {
+      "Name": "southwest.com",
+      "Rank": 826
+    },
+    {
+      "Name": "speedtest.net",
+      "Rank": 265
+    },
+    {
       "Name": "spotscenered.info",
-      "Rank": 591
+      "Rank": 770
     },
     {
       "Name": "taleo.net",
-      "Rank": 575
+      "Rank": 459
     },
     {
       "Name": "time.com",
-      "Rank": 1267
+      "Rank": 1052
     },
     {
-      "Name": "tmz.com",
-      "Rank": 1303
+      "Name": "vacaneedasap.com",
+      "Rank": 558
     },
     {
-      "Name": "usopen.org",
-      "Rank": 1409
+      "Name": "varielcontentdelivery.info",
+      "Rank": 253
+    },
+    {
+      "Name": "vokut.com",
+      "Rank": 623
     },
     {
       "Name": "wikia.com",
-      "Rank": 64
+      "Rank": 82
     },
     {
       "Name": "wikiwand.com",
-      "Rank": 1266
+      "Rank": 1115
     },
     {
       "Name": "worldstarhiphop.com",
-      "Rank": 1096
+      "Rank": 1259
+    },
+    {
+      "Name": "zara.com",
+      "Rank": 969
     }
   ]
 }
