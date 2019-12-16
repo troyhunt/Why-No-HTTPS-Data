@@ -2,92 +2,44 @@
   "CountryName": "Bahrain",
   "Domains": [
     {
-      "Name": "4pmnews.com",
-      "Rank": 208292
-    },
-    {
-      "Name": "afs.com.bh",
-      "Rank": 407851
-    },
-    {
       "Name": "akhbar-alkhaleej.com",
-      "Rank": 178323
+      "Rank": 220632
     },
     {
       "Name": "alayam.com",
-      "Rank": 65300
+      "Rank": 48359
     },
     {
       "Name": "albiladpress.com",
-      "Rank": 85060
-    },
-    {
-      "Name": "amaiu.edu.bh",
-      "Rank": 550532
-    },
-    {
-      "Name": "asu.edu.bh",
-      "Rank": 371002
+      "Rank": 225640
     },
     {
       "Name": "batelco.com",
-      "Rank": 68747
+      "Rank": 206945
     },
     {
       "Name": "citibank.com.bh",
-      "Rank": 297218
+      "Rank": 876256
     },
     {
       "Name": "edunet.bh",
-      "Rank": 55450
+      "Rank": 197314
     },
     {
       "Name": "gdnonline.com",
-      "Rank": 84751
-    },
-    {
-      "Name": "health360.bh",
-      "Rank": 319946
-    },
-    {
-      "Name": "interior.gov.bh",
-      "Rank": 300682
-    },
-    {
-      "Name": "ku.edu.bh",
-      "Rank": 686955
+      "Rank": 70916
     },
     {
       "Name": "lmra.bh",
-      "Rank": 50798
-    },
-    {
-      "Name": "malioglasi.com",
-      "Rank": 597442
-    },
-    {
-      "Name": "mia.gov.bh",
-      "Rank": 667510
+      "Rank": 196736
     },
     {
       "Name": "moe.gov.bh",
-      "Rank": 245759
-    },
-    {
-      "Name": "necremit.com",
-      "Rank": 387472
+      "Rank": 656632
     },
     {
       "Name": "policemc.gov.bh",
-      "Rank": 547835
-    },
-    {
-      "Name": "propertyfinder.bh",
-      "Rank": 252032
-    },
-    {
-      "Name": "tatweerpetroleum.com",
-      "Rank": 480327
+      "Rank": 559826
     }
   ]
 }

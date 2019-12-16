@@ -2,24 +2,20 @@
   "CountryName": "Bermuda",
   "Domains": [
     {
-      "Name": "artemis.bm",
-      "Rank": 899072
-    },
-    {
       "Name": "bernews.com",
-      "Rank": 126562
+      "Rank": 35426
     },
     {
-      "Name": "fkbnet.bm",
-      "Rank": 421229
+      "Name": "emoo.bm",
+      "Rank": 639447
     },
     {
       "Name": "royalgazette.com",
-      "Rank": 113135
+      "Rank": 32951
     },
     {
       "Name": "weather.bm",
-      "Rank": 280058
+      "Rank": 222412
     }
   ]
 }

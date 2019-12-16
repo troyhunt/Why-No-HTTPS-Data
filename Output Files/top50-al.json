@@ -3,203 +3,147 @@
   "Domains": [
     {
       "Name": "abcnews.al",
-      "Rank": 229885
+      "Rank": 231217
+    },
+    {
+      "Name": "abcom.al",
+      "Rank": 490931
     },
     {
       "Name": "albeu.com",
-      "Rank": 11329
+      "Rank": 22973
+    },
+    {
+      "Name": "anabelmagazine.com",
+      "Rank": 13842
     },
     {
       "Name": "app.gov.al",
-      "Rank": 286839
+      "Rank": 571148
     },
     {
       "Name": "bkt.com.al",
-      "Rank": 153704
+      "Rank": 399029
     },
     {
-      "Name": "dritare.net",
-      "Rank": 73893
+      "Name": "blitz.al",
+      "Rank": 852136
     },
     {
-      "Name": "droni.al",
-      "Rank": 127761
+      "Name": "bota.al",
+      "Rank": 864699
+    },
+    {
+      "Name": "celesi.com",
+      "Rank": 689511
     },
     {
       "Name": "epoka.edu.al",
-      "Rank": 247537
+      "Rank": 351885
     },
     {
       "Name": "fax.al",
-      "Rank": 153406
-    },
-    {
-      "Name": "filma24.io",
-      "Rank": 12944
-    },
-    {
-      "Name": "filmaon.org",
-      "Rank": 183748
+      "Rank": 320862
     },
     {
       "Name": "financa.gov.al",
-      "Rank": 279451
-    },
-    {
-      "Name": "fishmedia.info",
-      "Rank": 181500
-    },
-    {
-      "Name": "frekuenca.com",
-      "Rank": 74200
+      "Rank": 978782
     },
     {
       "Name": "futurehome.al",
-      "Rank": 208339
+      "Rank": 256327
     },
     {
       "Name": "gazetadita.al",
-      "Rank": 98958
+      "Rank": 168928
     },
     {
       "Name": "gazetatema.net",
-      "Rank": 43857
+      "Rank": 74874
     },
     {
       "Name": "gen.al",
-      "Rank": 227379
+      "Rank": 206075
+    },
+    {
+      "Name": "geo.edu.al",
+      "Rank": 727415
     },
     {
       "Name": "gsh.al",
-      "Rank": 248116
-    },
-    {
-      "Name": "ids.al",
-      "Rank": 264865
+      "Rank": 520545
     },
     {
       "Name": "ikub.al",
-      "Rank": 147352
+      "Rank": 105939
     },
     {
-      "Name": "infoelbasani.al",
-      "Rank": 259550
+      "Name": "instat.gov.al",
+      "Rank": 522796
     },
     {
-      "Name": "inter.al",
-      "Rank": 246841
+      "Name": "jblinks.al",
+      "Rank": 802345
     },
     {
-      "Name": "javanews.al",
-      "Rank": 218637
-    },
-    {
-      "Name": "klankosova.tv",
-      "Rank": 14534
-    },
-    {
-      "Name": "kohajone.com",
-      "Rank": 20184
-    },
-    {
-      "Name": "kosova-sot.info",
-      "Rank": 30903
-    },
-    {
-      "Name": "lajmi.net",
-      "Rank": 167550
-    },
-    {
-      "Name": "lajmifundit.al",
-      "Rank": 172465
-    },
-    {
-      "Name": "living.al",
-      "Rank": 24431
-    },
-    {
-      "Name": "mapo.al",
-      "Rank": 111963
-    },
-    {
-      "Name": "monitor.al",
-      "Rank": 189047
-    },
-    {
-      "Name": "newsbomb.al",
-      "Rank": 193696
+      "Name": "joqalbania.com",
+      "Rank": 3121
     },
     {
       "Name": "njoftime.com",
-      "Rank": 121822
+      "Rank": 236343
     },
     {
       "Name": "opinion.al",
-      "Rank": 11771
-    },
-    {
-      "Name": "oranews.tv",
-      "Rank": 62943
-    },
-    {
-      "Name": "pamfleti.net",
-      "Rank": 243238
+      "Rank": 314215
     },
     {
       "Name": "panorama.com.al",
-      "Rank": 2806
+      "Rank": 5164
     },
     {
-      "Name": "politiko.al",
-      "Rank": 64778
+      "Name": "parlament.al",
+      "Rank": 473847
+    },
+    {
+      "Name": "president.al",
+      "Rank": 388920
+    },
+    {
+      "Name": "qkr.gov.al",
+      "Rank": 704009
+    },
+    {
+      "Name": "rks-gov.net",
+      "Rank": 104057
     },
     {
       "Name": "rtklive.com",
-      "Rank": 216722
+      "Rank": 169226
     },
     {
       "Name": "shekulli.com.al",
-      "Rank": 147830
+      "Rank": 240397
     },
     {
       "Name": "short24.pw",
-      "Rank": 86618
-    },
-    {
-      "Name": "shqiptarja.com",
-      "Rank": 51333
-    },
-    {
-      "Name": "telesport.al",
-      "Rank": 228831
+      "Rank": 127728
     },
     {
       "Name": "tiranapost.al",
-      "Rank": 228860
-    },
-    {
-      "Name": "tiranatoday.com",
-      "Rank": 30138
+      "Rank": 441659
     },
     {
       "Name": "top-channel.tv",
-      "Rank": 28409
+      "Rank": 31867
     },
     {
-      "Name": "tvklan.al",
-      "Rank": 5621
+      "Name": "umbrella.al",
+      "Rank": 487863
     },
     {
-      "Name": "videotekaime.net",
-      "Rank": 287092
-    },
-    {
-      "Name": "wikipedia.nom.al",
-      "Rank": 107752
-    },
-    {
-      "Name": "zeri.info",
-      "Rank": 131478
+      "Name": "vidnews.net",
+      "Rank": 414845
     }
   ]
 }

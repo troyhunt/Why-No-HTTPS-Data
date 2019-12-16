@@ -2,44 +2,20 @@
   "CountryName": "French Polynesia",
   "Domains": [
     {
-      "Name": "cps.pf",
-      "Rank": 539604
-    },
-    {
-      "Name": "ladepeche.pf",
-      "Rank": 773763
-    },
-    {
       "Name": "mana.pf",
-      "Rank": 195663
-    },
-    {
-      "Name": "meteo.pf",
-      "Rank": 541748
+      "Rank": 575520
     },
     {
       "Name": "opt.pf",
-      "Rank": 393237
-    },
-    {
-      "Name": "petitesannonces.pf",
-      "Rank": 288613
-    },
-    {
-      "Name": "petites-annonces.pf",
-      "Rank": 485835
-    },
-    {
-      "Name": "satnui.pf",
-      "Rank": 698528
+      "Rank": 858479
     },
     {
       "Name": "service-public.pf",
-      "Rank": 463670
+      "Rank": 821116
     },
     {
       "Name": "vini.pf",
-      "Rank": 487836
+      "Rank": 815365
     }
   ]
 }

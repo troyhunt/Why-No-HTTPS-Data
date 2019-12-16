@@ -2,36 +2,32 @@
   "CountryName": "Somalia",
   "Domains": [
     {
-      "Name": "bos.so",
-      "Rank": 207870
+      "Name": "amisom-au.org",
+      "Rank": 552843
     },
     {
-      "Name": "btstorrent.so",
-      "Rank": 329812
+      "Name": "bos.so",
+      "Rank": 121175
     },
     {
       "Name": "eye4.so",
-      "Rank": 282849
+      "Rank": 824510
     },
     {
       "Name": "f4umovies.com",
-      "Rank": 670561
-    },
-    {
-      "Name": "i-dont-think.so",
-      "Rank": 689535
-    },
-    {
-      "Name": "jowhar.com",
-      "Rank": 93779
+      "Rank": 671156
     },
     {
       "Name": "kickass.so",
-      "Rank": 265124
+      "Rank": 233661
     },
     {
       "Name": "lurkmore.so",
-      "Rank": 223839
+      "Rank": 286639
+    },
+    {
+      "Name": "ninasays.so",
+      "Rank": 634875
     }
   ]
 }

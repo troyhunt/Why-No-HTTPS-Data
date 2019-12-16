@@ -3,63 +3,39 @@
   "Domains": [
     {
       "Name": "agc.gov.bn",
-      "Rank": 866764
-    },
-    {
-      "Name": "bdnsw.gov.bn",
-      "Rank": 561569
-    },
-    {
-      "Name": "business.gov.bn",
-      "Rank": 469302
+      "Rank": 553016
     },
     {
       "Name": "jobcentrebrunei.gov.bn",
-      "Rank": 90283
-    },
-    {
-      "Name": "kheu.gov.bn",
-      "Rank": 528822
+      "Rank": 370316
     },
     {
       "Name": "ltd-nam.gov.bn",
-      "Rank": 197328
+      "Rank": 637855
+    },
+    {
+      "Name": "mindef.gov.bn",
+      "Rank": 854901
     },
     {
       "Name": "moe.gov.bn",
-      "Rank": 317208
+      "Rank": 379526
     },
     {
       "Name": "moh.gov.bn",
-      "Rank": 873138
+      "Rank": 942323
     },
     {
       "Name": "nam.gov.bn",
-      "Rank": 97644
-    },
-    {
-      "Name": "pb.edu.bn",
-      "Rank": 232500
+      "Rank": 349126
     },
     {
       "Name": "pelitabrunei.gov.bn",
-      "Rank": 267061
-    },
-    {
-      "Name": "psd.gov.bn",
-      "Rank": 575248
+      "Rank": 717527
     },
     {
       "Name": "spa.gov.bn",
-      "Rank": 242600
-    },
-    {
-      "Name": "tap.com.bn",
-      "Rank": 544062
-    },
-    {
-      "Name": "utb.edu.bn",
-      "Rank": 417410
+      "Rank": 836425
     }
   ]
 }

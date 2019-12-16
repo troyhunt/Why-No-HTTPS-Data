@@ -2,44 +2,8 @@
   "CountryName": "Bhutan",
   "Domains": [
     {
-      "Name": "bcsea.bt",
-      "Rank": 255821
-    },
-    {
-      "Name": "bdb.bt",
-      "Rank": 517532
-    },
-    {
-      "Name": "bpc.bt",
-      "Rank": 322050
-    },
-    {
-      "Name": "cst.edu.bt",
-      "Rank": 243444
-    },
-    {
-      "Name": "hotel.bt",
-      "Rank": 810774
-    },
-    {
       "Name": "kuenselonline.com",
-      "Rank": 101340
-    },
-    {
-      "Name": "moic.gov.bt",
-      "Rank": 716059
-    },
-    {
-      "Name": "mowhs.gov.bt",
-      "Rank": 349223
-    },
-    {
-      "Name": "nppf.org.bt",
-      "Rank": 407179
-    },
-    {
-      "Name": "rsta.gov.bt",
-      "Rank": 533930
+      "Rank": 85392
     }
   ]
 }

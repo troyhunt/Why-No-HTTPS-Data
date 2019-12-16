@@ -2,204 +2,192 @@
   "CountryName": "Georgia",
   "Domains": [
     {
+      "Name": "agenda.ge",
+      "Rank": 155614
+    },
+    {
+      "Name": "ahlibeyt.ge",
+      "Rank": 733353
+    },
+    {
       "Name": "alia.ge",
-      "Rank": 291939
+      "Rank": 777000
     },
     {
-      "Name": "altaok.ge",
-      "Rank": 255418
+      "Name": "animetv.ge",
+      "Rank": 906605
     },
     {
-      "Name": "aris.ge",
-      "Rank": 165910
+      "Name": "boom.ge",
+      "Rank": 809692
     },
     {
       "Name": "cec.gov.ge",
-      "Rank": 168818
+      "Rank": 711576
     },
     {
-      "Name": "cyc.ge",
-      "Rank": 322077
+      "Name": "cu.edu.ge",
+      "Rank": 803892
     },
     {
-      "Name": "etaloni.ge",
-      "Rank": 274664
+      "Name": "economy.ge",
+      "Rank": 909824
+    },
+    {
+      "Name": "fexburti.ge",
+      "Rank": 282374
     },
     {
       "Name": "file.ge",
-      "Rank": 51557
-    },
-    {
-      "Name": "fortuna.ge",
-      "Rank": 251495
+      "Rank": 334207
     },
     {
       "Name": "forum.ge",
-      "Rank": 114154
+      "Rank": 212640
     },
     {
       "Name": "georgiatoday.ge",
-      "Rank": 325956
+      "Rank": 126542
     },
     {
-      "Name": "gioggg.ge",
-      "Rank": 152059
+      "Name": "gurianews.com",
+      "Rank": 996597
     },
     {
-      "Name": "gtu.ge",
-      "Rank": 231718
-    },
-    {
-      "Name": "halamadrid.ge",
-      "Rank": 210446
+      "Name": "httptunnel.ge",
+      "Rank": 636270
     },
     {
       "Name": "imedi.ge",
-      "Rank": 74088
+      "Rank": 241895
     },
     {
       "Name": "intermedia.ge",
-      "Rank": 64099
+      "Rank": 157380
     },
     {
       "Name": "iptv.ge",
-      "Rank": 90411
-    },
-    {
-      "Name": "jnews.ge",
-      "Rank": 200946
-    },
-    {
-      "Name": "jobs.ge",
-      "Rank": 114610
+      "Rank": 494418
     },
     {
       "Name": "kids.ge",
-      "Rank": 326608
+      "Rank": 845893
     },
     {
-      "Name": "kinoebi.ge",
-      "Rank": 221126
+      "Name": "kvira.ge",
+      "Rank": 975351
     },
     {
       "Name": "lelo.ge",
-      "Rank": 206317
+      "Rank": 661721
     },
     {
-      "Name": "magtifun.ge",
-      "Rank": 263402
+      "Name": "liberali.ge",
+      "Rank": 874867
     },
     {
       "Name": "mainpage.info",
-      "Rank": 278960
+      "Rank": 663288
     },
     {
-      "Name": "marao.ge",
-      "Rank": 296794
+      "Name": "mastsavlebeli.ge",
+      "Rank": 576408
     },
     {
       "Name": "mcvane.ge",
-      "Rank": 330721
+      "Rank": 78805
     },
     {
-      "Name": "mkurnali.ge",
-      "Rank": 257564
+      "Name": "mes.gov.ge",
+      "Rank": 431837
+    },
+    {
+      "Name": "meteo.gov.ge",
+      "Rank": 971189
+    },
+    {
+      "Name": "mfa.gov.ge",
+      "Rank": 141359
     },
     {
       "Name": "napr.gov.ge",
-      "Rank": 117624
+      "Rank": 334071
     },
     {
       "Name": "naxe.org",
-      "Rank": 96228
+      "Rank": 637969
     },
     {
-      "Name": "netgazeti.ge",
-      "Rank": 217065
+      "Name": "ncp.ge",
+      "Rank": 687745
     },
     {
-      "Name": "newposts.ge",
-      "Rank": 315827
+      "Name": "parliament.ge",
+      "Rank": 251129
     },
     {
-      "Name": "nplg.gov.ge",
-      "Rank": 93964
+      "Name": "picz.ge",
+      "Rank": 517648
     },
     {
       "Name": "procurement.gov.ge",
-      "Rank": 253586
+      "Rank": 792794
     },
     {
-      "Name": "psponline.ge",
-      "Rank": 328551
+      "Name": "railway.ge",
+      "Rank": 354531
     },
     {
       "Name": "reestri.gov.ge",
-      "Rank": 175817
+      "Rank": 385472
     },
     {
       "Name": "reportiori.ge",
-      "Rank": 228671
+      "Rank": 854145
     },
     {
-      "Name": "rs.ge",
-      "Rank": 33394
+      "Name": "rico.ge",
+      "Rank": 898917
     },
     {
       "Name": "rustavi2.ge",
-      "Rank": 20396
+      "Rank": 263272
     },
     {
       "Name": "saitebi.ge",
-      "Rank": 41525
+      "Rank": 114875
     },
     {
-      "Name": "silknet.com",
-      "Rank": 327207
+      "Name": "saitebi.net",
+      "Rank": 831747
     },
     {
-      "Name": "sportvideo.ge",
-      "Rank": 280658
+      "Name": "sknews.ge",
+      "Rank": 948613
     },
     {
       "Name": "tabula.ge",
-      "Rank": 57251
+      "Rank": 433304
     },
     {
       "Name": "tamashebi.net",
-      "Rank": 146883
-    },
-    {
-      "Name": "tbcbank.ge",
-      "Rank": 97646
+      "Rank": 786772
     },
     {
       "Name": "tbilisi.gov.ge",
-      "Rank": 331298
+      "Rank": 419886
     },
     {
-      "Name": "tbilisiyogacave.com",
-      "Rank": 104900
-    },
-    {
-      "Name": "tpdc.ge",
-      "Rank": 292004
-    },
-    {
-      "Name": "translate.ge",
-      "Rank": 181413
+      "Name": "teacherjobs.ge",
+      "Rank": 983733
     },
     {
       "Name": "ufc.ge",
-      "Rank": 217726
+      "Rank": 506489
     },
     {
       "Name": "vidal.ge",
-      "Rank": 204059
-    },
-    {
-      "Name": "zoommer.ge",
-      "Rank": 170029
+      "Rank": 948085
     }
   ]
 }

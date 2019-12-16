@@ -2,204 +2,160 @@
   "CountryName": "Syrian Arab Republic",
   "Domains": [
     {
-      "Name": "alalam.ir",
-      "Rank": 7396
-    },
-    {
       "Name": "albaathmedia.sy",
-      "Rank": 140165
+      "Rank": 385682
     },
     {
       "Name": "albaath-univ.edu.sy",
-      "Rank": 188127
-    },
-    {
-      "Name": "al-binaa.com",
-      "Rank": 166312
+      "Rank": 802851
     },
     {
       "Name": "almjhar.com",
-      "Rank": 238502
+      "Rank": 468179
     },
     {
       "Name": "alwatan.sy",
-      "Rank": 72778
+      "Rank": 100787
     },
     {
       "Name": "alwehda.gov.sy",
-      "Rank": 127893
+      "Rank": 416631
     },
     {
-      "Name": "au.edu.sy",
-      "Rank": 291823
+      "Name": "arooos.com",
+      "Rank": 149909
     },
     {
-      "Name": "aya.sy",
-      "Rank": 221052
+      "Name": "baathparty.sy",
+      "Rank": 650721
+    },
+    {
+      "Name": "cb.gov.sy",
+      "Rank": 951544
     },
     {
       "Name": "damascusuniversity.edu.sy",
-      "Rank": 164191
-    },
-    {
-      "Name": "damasnow.com",
-      "Rank": 48731
+      "Rank": 154174
     },
     {
       "Name": "damas-times.com",
-      "Rank": 275326
-    },
-    {
-      "Name": "damasuniv.edu.sy",
-      "Rank": 83816
+      "Rank": 195474
     },
     {
       "Name": "dampress.net",
-      "Rank": 253042
+      "Rank": 655071
     },
     {
       "Name": "dse.sy",
-      "Rank": 252590
+      "Rank": 890256
     },
     {
-      "Name": "egov.sy",
-      "Rank": 248584
+      "Name": "dubarah.com",
+      "Rank": 550953
     },
     {
-      "Name": "e-lcom.sy",
-      "Rank": 263944
-    },
-    {
-      "Name": "freeprograms.win",
-      "Rank": 111018
+      "Name": "esyria.sy",
+      "Rank": 499475
     },
     {
       "Name": "globemedsyria.com",
-      "Rank": 198228
+      "Rank": 352085
     },
     {
       "Name": "hama-univ.edu.sy",
-      "Rank": 278922
+      "Rank": 665179
     },
     {
       "Name": "hashtagsyria.com",
-      "Rank": 151769
-    },
-    {
-      "Name": "imei.sy",
-      "Rank": 155298
+      "Rank": 475047
     },
     {
       "Name": "inet.sy",
-      "Rank": 223741
+      "Rank": 428311
     },
     {
-      "Name": "job.sy",
-      "Rank": 82207
+      "Name": "makeenat.com",
+      "Rank": 102291
     },
     {
-      "Name": "linet-sy.com",
-      "Rank": 269221
+      "Name": "medexa.sy",
+      "Rank": 849899
+    },
+    {
+      "Name": "mod.gov.sy",
+      "Rank": 643295
     },
     {
       "Name": "moed.gov.sy",
-      "Rank": 49685
+      "Rank": 335913
     },
     {
-      "Name": "mof.sy",
-      "Rank": 100239
+      "Name": "mofa.gov.sy",
+      "Rank": 869503
     },
     {
-      "Name": "mohe.gov.sy",
-      "Rank": 76059
+      "Name": "mofaex.gov.sy",
+      "Rank": 931021
     },
     {
-      "Name": "mutaz.net",
-      "Rank": 12969
+      "Name": "moi.gov.sy",
+      "Rank": 899421
     },
     {
-      "Name": "ncd.sy",
-      "Rank": 257865
-    },
-    {
-      "Name": "omniya.sy",
-      "Rank": 181895
-    },
-    {
-      "Name": "ortas.gov.sy",
-      "Rank": 104321
-    },
-    {
-      "Name": "parliament.gov.sy",
-      "Rank": 243855
+      "Name": "ortas.online",
+      "Rank": 106277
     },
     {
       "Name": "pministry.gov.sy",
-      "Rank": 179053
+      "Rank": 834492
     },
     {
       "Name": "pronet.sy",
-      "Rank": 152397
-    },
-    {
-      "Name": "reb-sy.com",
-      "Rank": 152253
-    },
-    {
-      "Name": "runnet.sy",
-      "Rank": 258695
+      "Rank": 424993
     },
     {
       "Name": "sama-tv.net",
-      "Rank": 247002
-    },
-    {
-      "Name": "sawaisp.sy",
-      "Rank": 188202
+      "Rank": 810294
     },
     {
       "Name": "scs-net.org",
-      "Rank": 186669
+      "Rank": 515487
     },
     {
       "Name": "shaam.org",
-      "Rank": 250972
+      "Rank": 282428
     },
     {
-      "Name": "sic-eclaim.com",
-      "Rank": 91330
+      "Name": "syriaair.com",
+      "Rank": 616872
     },
     {
-      "Name": "stepagency-sy.net",
-      "Rank": 275834
-    },
-    {
-      "Name": "syria.news",
-      "Rank": 53835
+      "Name": "syrianhistory.com",
+      "Rank": 900276
     },
     {
       "Name": "syrianownews.com",
-      "Rank": 52265
+      "Rank": 106630
     },
     {
       "Name": "syriasteps.com",
-      "Rank": 107992
-    },
-    {
-      "Name": "syriatel.sy",
-      "Rank": 102650
+      "Rank": 807744
     },
     {
       "Name": "syr-res.com",
-      "Rank": 34299
+      "Rank": 218569
     },
     {
       "Name": "thawra.sy",
-      "Rank": 76351
+      "Rank": 345758
     },
     {
-      "Name": "thawraonline.sy",
-      "Rank": 254015
+      "Name": "trollsgame.online",
+      "Rank": 179293
+    },
+    {
+      "Name": "vfthr.com",
+      "Rank": 83438
     }
   ]
 }

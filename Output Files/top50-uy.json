@@ -2,204 +2,128 @@
   "CountryName": "Uruguay",
   "Domains": [
     {
-      "Name": "180.com.uy",
-      "Rank": 264364
+      "Name": "alianza.edu.uy",
+      "Rank": 99530
     },
     {
       "Name": "anep.edu.uy",
-      "Rank": 43901
+      "Rank": 193526
     },
     {
       "Name": "antel.com.uy",
-      "Rank": 68902
-    },
-    {
-      "Name": "asesp.com.uy",
-      "Rank": 337465
+      "Rank": 163396
     },
     {
       "Name": "carlosgutierrez.com.uy",
-      "Rank": 217569
+      "Rank": 693821
     },
     {
-      "Name": "cartelera.com.uy",
-      "Rank": 405973
+      "Name": "casaniloperez.com.uy",
+      "Rank": 952952
     },
     {
       "Name": "cdrmedios.com.uy",
-      "Rank": 360054
+      "Rank": 446338
     },
     {
       "Name": "ceip.edu.uy",
-      "Rank": 45537
-    },
-    {
-      "Name": "cep.edu.uy",
-      "Rank": 380295
+      "Rank": 165795
     },
     {
       "Name": "cfe.edu.uy",
-      "Rank": 111424
+      "Rank": 776390
     },
     {
-      "Name": "comprasestatales.gub.uy",
-      "Rank": 174486
-    },
-    {
-      "Name": "correo.com.uy",
-      "Rank": 231488
-    },
-    {
-      "Name": "csic.edu.uy",
-      "Rank": 378765
-    },
-    {
-      "Name": "delsol.uy",
-      "Rank": 407603
-    },
-    {
-      "Name": "escueladigital.com.uy",
-      "Rank": 451886
-    },
-    {
-      "Name": "espectador.com",
-      "Rank": 185639
+      "Name": "diarioelpueblo.com.uy",
+      "Rank": 765517
     },
     {
       "Name": "fadu.edu.uy",
-      "Rank": 170308
+      "Rank": 596042
     },
     {
       "Name": "fcea.edu.uy",
-      "Rank": 380547
-    },
-    {
-      "Name": "foxsports.com.uy",
-      "Rank": 295882
+      "Rank": 724867
     },
     {
       "Name": "futbol.com.uy",
-      "Rank": 100596
+      "Rank": 209635
     },
     {
-      "Name": "hc.edu.uy",
-      "Rank": 346976
+      "Name": "guiadelmundo.org.uy",
+      "Rank": 967846
     },
     {
-      "Name": "impo.com.uy",
-      "Rank": 361769
-    },
-    {
-      "Name": "inau.gub.uy",
-      "Rank": 335489
+      "Name": "ine.gub.uy",
+      "Rank": 942835
     },
     {
       "Name": "inia.uy",
-      "Rank": 328778
-    },
-    {
-      "Name": "labanca.com.uy",
-      "Rank": 257995
+      "Rank": 635662
     },
     {
       "Name": "lr21.com.uy",
-      "Rank": 89867
-    },
-    {
-      "Name": "maldonado.gub.uy",
-      "Rank": 418344
-    },
-    {
-      "Name": "mec.gub.uy",
-      "Rank": 205578
+      "Rank": 65212
     },
     {
       "Name": "minterior.gub.uy",
-      "Rank": 151868
+      "Rank": 574232
     },
     {
       "Name": "montevideo.com.uy",
-      "Rank": 38393
+      "Rank": 41042
     },
     {
       "Name": "montevideo.gub.uy",
-      "Rank": 87278
-    },
-    {
-      "Name": "msp.gub.uy",
-      "Rank": 153564
+      "Rank": 216872
     },
     {
       "Name": "pantallazo.com.uy",
-      "Rank": 181023
+      "Rank": 379148
     },
     {
       "Name": "poderjudicial.gub.uy",
-      "Rank": 254141
+      "Rank": 921168
     },
     {
       "Name": "presidencia.gub.uy",
-      "Rank": 187818
-    },
-    {
-      "Name": "radios.com.uy",
-      "Rank": 128363
+      "Rank": 463493
     },
     {
       "Name": "radiouruguay.uy",
-      "Rank": 352499
+      "Rank": 871337
     },
     {
       "Name": "scielo.edu.uy",
-      "Rank": 266597
+      "Rank": 209628
+    },
+    {
+      "Name": "scotiabank.com.uy",
+      "Rank": 193824
     },
     {
       "Name": "sea.edu.uy",
-      "Rank": 262560
+      "Rank": 451382
     },
     {
-      "Name": "sipi.gub.uy",
-      "Rank": 381567
-    },
-    {
-      "Name": "sodimac.com.uy",
-      "Rank": 224936
-    },
-    {
-      "Name": "tenfield.com.uy",
-      "Rank": 228371
-    },
-    {
-      "Name": "testdevelocidad.com.uy",
-      "Rank": 241783
+      "Name": "teatrosolis.org.uy",
+      "Rank": 899715
     },
     {
       "Name": "udelar.edu.uy",
-      "Rank": 108712
+      "Rank": 160811
     },
     {
       "Name": "um.edu.uy",
-      "Rank": 409631
+      "Rank": 391633
     },
     {
       "Name": "unicom.com.uy",
-      "Rank": 234354
+      "Rank": 356546
     },
     {
-      "Name": "uruguayeduca.edu.uy",
-      "Rank": 140470
-    },
-    {
-      "Name": "ute.com.uy",
-      "Rank": 230204
-    },
-    {
-      "Name": "xn--pearol-xwa.org",
-      "Rank": 378885
-    },
-    {
-      "Name": "xprostore.uy",
-      "Rank": 315559
+      "Name": "uypress.net",
+      "Rank": 619131
     }
   ]
 }

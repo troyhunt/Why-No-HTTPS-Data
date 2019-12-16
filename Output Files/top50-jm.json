@@ -2,28 +2,12 @@
   "CountryName": "Jamaica",
   "Domains": [
     {
-      "Name": "mof.gov.jm",
-      "Rank": 878720
-    },
-    {
-      "Name": "moj.gov.jm",
-      "Rank": 466618
-    },
-    {
       "Name": "pica.gov.jm",
-      "Rank": 553683
-    },
-    {
-      "Name": "slbja.com",
-      "Rank": 996488
-    },
-    {
-      "Name": "ucc.edu.jm",
-      "Rank": 849488
+      "Rank": 331167
     },
     {
       "Name": "utech.edu.jm",
-      "Rank": 205276
+      "Rank": 356473
     }
   ]
 }

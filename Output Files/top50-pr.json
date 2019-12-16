@@ -2,88 +2,72 @@
   "CountryName": "Puerto Rico",
   "Domains": [
     {
+      "Name": "acueductospr.com",
+      "Rank": 74860
+    },
+    {
       "Name": "clasificadosonline.com",
-      "Rank": 33189
+      "Rank": 10550
+    },
+    {
+      "Name": "coqui.net",
+      "Rank": 133097
     },
     {
       "Name": "dde.pr",
-      "Rank": 201633
+      "Rank": 56742
     },
     {
       "Name": "dtop.gov.pr",
-      "Rank": 307891
-    },
-    {
-      "Name": "fondopr.com",
-      "Rank": 626564
+      "Rank": 204583
     },
     {
       "Name": "iceyarns.com",
-      "Rank": 280508
+      "Rank": 265485
     },
     {
-      "Name": "inter.edu",
-      "Rank": 65142
-    },
-    {
-      "Name": "intermedpr.com",
-      "Rank": 377215
+      "Name": "icprjc.edu",
+      "Rank": 518283
     },
     {
       "Name": "libertypr.com",
-      "Rank": 118761
+      "Rank": 69960
     },
     {
-      "Name": "magacin.com",
-      "Rank": 277886
-    },
-    {
-      "Name": "periodicolaperla.com",
-      "Rank": 448921
-    },
-    {
-      "Name": "pr.gov",
-      "Rank": 24482
+      "Name": "miagendapr.com",
+      "Rank": 250674
     },
     {
       "Name": "ramajudicial.pr",
-      "Rank": 203913
+      "Rank": 148079
     },
     {
       "Name": "rapeton.com",
-      "Rank": 373021
+      "Rank": 385885
     },
     {
       "Name": "salud.gov.pr",
-      "Rank": 442775
+      "Rank": 119555
+    },
+    {
+      "Name": "status.pr",
+      "Rank": 629625
     },
     {
       "Name": "suagm.edu",
-      "Rank": 58104
-    },
-    {
-      "Name": "themelike.net",
-      "Rank": 262463
-    },
-    {
-      "Name": "ucb.edu.pr",
-      "Rank": 298963
-    },
-    {
-      "Name": "universia.pr",
-      "Rank": 153477
-    },
-    {
-      "Name": "upr.edu",
-      "Rank": 38982
+      "Rank": 63834
     },
     {
       "Name": "upra.edu",
-      "Rank": 241133
+      "Rank": 384669
     },
     {
       "Name": "uprrp.edu",
-      "Rank": 45425
+      "Rank": 22709
+    },
+    {
+      "Name": "walmartpr.com",
+      "Rank": 175533
     }
   ]
 }

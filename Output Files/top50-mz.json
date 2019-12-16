@@ -2,96 +2,40 @@
   "CountryName": "Mozambique",
   "Domains": [
     {
-      "Name": "app.co.mz",
-      "Rank": 882191
-    },
-    {
       "Name": "bancomoc.mz",
-      "Rank": 262386
+      "Rank": 278024
     },
     {
       "Name": "bancounico.co.mz",
-      "Rank": 593264
-    },
-    {
-      "Name": "fdc.org.mz",
-      "Rank": 894490
-    },
-    {
-      "Name": "fnb.co.mz",
-      "Rank": 745722
+      "Rank": 503098
     },
     {
       "Name": "folhademaputo.co.mz",
-      "Rank": 237266
-    },
-    {
-      "Name": "game.co.mz",
-      "Rank": 791978
-    },
-    {
-      "Name": "infodiario.co.mz",
-      "Rank": 673158
+      "Rank": 452242
     },
     {
       "Name": "isced.ac.mz",
-      "Rank": 256119
-    },
-    {
-      "Name": "jornaldomingo.co.mz",
-      "Rank": 532902
-    },
-    {
-      "Name": "jornalnoticias.co.mz",
-      "Rank": 49448
+      "Rank": 219218
     },
     {
       "Name": "mined.gov.mz",
-      "Rank": 306635
+      "Rank": 952618
     },
     {
-      "Name": "miramar.co.mz",
-      "Rank": 410137
-    },
-    {
-      "Name": "mitess.gov.mz",
-      "Rank": 558440
-    },
-    {
-      "Name": "mozentretenimento.co.mz",
-      "Rank": 433861
-    },
-    {
-      "Name": "moztrends.com",
-      "Rank": 93139
-    },
-    {
-      "Name": "nordarciopro.net",
-      "Rank": 505649
+      "Name": "rm.co.mz",
+      "Rank": 655431
     },
     {
       "Name": "sapo.mz",
-      "Rank": 22933
-    },
-    {
-      "Name": "stv.co.mz",
-      "Rank": 138614
-    },
-    {
-      "Name": "tvm.co.mz",
-      "Rank": 608000
+      "Rank": 102323
     },
     {
       "Name": "ucm.ac.mz",
-      "Rank": 168780
-    },
-    {
-      "Name": "uem.mz",
-      "Rank": 41383
+      "Rank": 599816
     },
     {
       "Name": "verdade.co.mz",
-      "Rank": 203076
+      "Rank": 387936
     }
   ]
 }

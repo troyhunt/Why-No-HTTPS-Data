@@ -2,204 +2,144 @@
   "CountryName": "Libya",
   "Domains": [
     {
+      "Name": "access.ly",
+      "Rank": 219783
+    },
+    {
       "Name": "afriqa-sat.com",
-      "Rank": 60310
-    },
-    {
-      "Name": "agoco.ly",
-      "Rank": 111892
-    },
-    {
-      "Name": "akhbarlibya.net",
-      "Rank": 265621
-    },
-    {
-      "Name": "al-badr.net",
-      "Rank": 174461
+      "Rank": 183644
     },
     {
       "Name": "almerja.net",
-      "Rank": 129063
-    },
-    {
-      "Name": "almotawaset.com",
-      "Rank": 90694
-    },
-    {
-      "Name": "alnahj.net",
-      "Rank": 422567
+      "Rank": 529697
     },
     {
       "Name": "alwasat.ly",
-      "Rank": 30542
+      "Rank": 76541
     },
     {
-      "Name": "audit.gov.ly",
-      "Rank": 125175
+      "Name": "arooselbahr.com",
+      "Rank": 936696
     },
     {
       "Name": "barid.com",
-      "Rank": 129409
+      "Rank": 517070
     },
     {
-      "Name": "beinsports.net",
-      "Rank": 74868
+      "Name": "biz.ly",
+      "Rank": 175303
     },
     {
       "Name": "cim.gov.ly",
-      "Rank": 278908
+      "Rank": 359375
     },
     {
       "Name": "connect.ly",
-      "Rank": 89730
+      "Rank": 295800
     },
     {
-      "Name": "cra.gov.ly",
-      "Rank": 196454
-    },
-    {
-      "Name": "ditt.ly",
-      "Rank": 222567
-    },
-    {
-      "Name": "dlco.ly",
-      "Rank": 152408
+      "Name": "delta-libya.com",
+      "Rank": 618259
     },
     {
       "Name": "ebcd.ly",
-      "Rank": 102270
+      "Rank": 169238
     },
     {
       "Name": "elsada.net",
-      "Rank": 311370
+      "Rank": 423709
     },
     {
       "Name": "ewanlibya.ly",
-      "Rank": 120269
+      "Rank": 686135
     },
     {
-      "Name": "giga.ly",
-      "Rank": 227148
+      "Name": "fur.ly",
+      "Rank": 541751
+    },
+    {
+      "Name": "hashshiny.io",
+      "Rank": 167173
     },
     {
       "Name": "iasj.net",
-      "Rank": 25060
+      "Rank": 54683
     },
     {
       "Name": "ibg.ly",
-      "Rank": 396660
+      "Rank": 485172
     },
     {
-      "Name": "libya-al-mostakbal.org",
-      "Rank": 171578
-    },
-    {
-      "Name": "libyana.ly",
-      "Rank": 94127
+      "Name": "libyaakhbar.com",
+      "Rank": 37232
     },
     {
       "Name": "libyaninvestment.com",
-      "Rank": 147909
-    },
-    {
-      "Name": "libyanwings.ly",
-      "Rank": 335918
+      "Rank": 357210
     },
     {
       "Name": "libyatech.com",
-      "Rank": 109058
-    },
-    {
-      "Name": "lnet.ly",
-      "Rank": 230092
+      "Rank": 500729
     },
     {
       "Name": "ltt.ly",
-      "Rank": 9226
+      "Rank": 42486
     },
     {
       "Name": "m-a-arabia.com",
-      "Rank": 93402
+      "Rank": 454278
     },
     {
-      "Name": "misuratau.edu.ly",
-      "Rank": 149154
-    },
-    {
-      "Name": "mngwefal.com",
-      "Rank": 61003
+      "Name": "mofp-portal.net",
+      "Rank": 734784
     },
     {
       "Name": "mohamedrabeea.net",
-      "Rank": 108724
+      "Rank": 354059
     },
     {
-      "Name": "moi.gov.ly",
-      "Rank": 181655
+      "Name": "music.ly",
+      "Rank": 792341
     },
     {
       "Name": "nid.gov.ly",
-      "Rank": 24019
-    },
-    {
-      "Name": "noc.ly",
-      "Rank": 171726
-    },
-    {
-      "Name": "pm.gov.ly",
-      "Rank": 273422
+      "Rank": 76232
     },
     {
       "Name": "rimessa.net",
-      "Rank": 150032
-    },
-    {
-      "Name": "satdw.com",
-      "Rank": 153194
-    },
-    {
-      "Name": "sebhau.edu.ly",
-      "Rank": 475372
+      "Rank": 679901
     },
     {
       "Name": "shbool-sat.com",
-      "Rank": 171183
-    },
-    {
-      "Name": "sirteoil.com.ly",
-      "Rank": 283829
+      "Rank": 473795
     },
     {
       "Name": "slick.ly",
-      "Rank": 152699
+      "Rank": 351230
     },
     {
-      "Name": "su.edu.ly",
-      "Rank": 241018
+      "Name": "smartcontentstore.com",
+      "Rank": 117052
+    },
+    {
+      "Name": "stootoat.com",
+      "Rank": 130067
+    },
+    {
+      "Name": "talees.ly",
+      "Rank": 592467
     },
     {
       "Name": "uob.edu.ly",
-      "Rank": 104912
+      "Rank": 874978
     },
     {
-      "Name": "uot.edu.ly",
-      "Rank": 20672
+      "Name": "vid.ly",
+      "Rank": 92668
     },
     {
-      "Name": "ur.ly",
-      "Rank": 389951
-    },
-    {
-      "Name": "wahabank.com",
-      "Rank": 145629
-    },
-    {
-      "Name": "wahdabank.com.ly",
-      "Rank": 396664
-    },
-    {
-      "Name": "zu.edu.ly",
-      "Rank": 282488
+      "Name": "zajellibya.com",
+      "Rank": 368682
     }
   ]
 }

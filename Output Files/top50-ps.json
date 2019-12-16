@@ -2,104 +2,52 @@
   "CountryName": "Palestine, State of",
   "Domains": [
     {
-      "Name": "aflamy.ps",
-      "Rank": 484054
-    },
-    {
       "Name": "al-ayyam.ps",
-      "Rank": 374330
+      "Rank": 524563
     },
     {
       "Name": "alazhar.edu.ps",
-      "Rank": 380738
-    },
-    {
-      "Name": "alfajertv.com",
-      "Rank": 24515
+      "Rank": 763341
     },
     {
       "Name": "aliqtisadi.ps",
-      "Rank": 173727
-    },
-    {
-      "Name": "alresalah.ps",
-      "Rank": 292460
+      "Rank": 892546
     },
     {
       "Name": "aqsatv.ps",
-      "Rank": 338215
-    },
-    {
-      "Name": "felesteen.ps",
-      "Rank": 336872
+      "Rank": 655801
     },
     {
       "Name": "hadfnews.ps",
-      "Rank": 543065
-    },
-    {
-      "Name": "hebron.edu",
-      "Rank": 800514
+      "Rank": 948638
     },
     {
       "Name": "maannews.net",
-      "Rank": 48718
+      "Rank": 32404
     },
     {
-      "Name": "mersal.ps",
-      "Rank": 558369
-    },
-    {
-      "Name": "mohe.ps",
-      "Rank": 189465
-    },
-    {
-      "Name": "mpi.ps",
-      "Rank": 260925
-    },
-    {
-      "Name": "mshreqnews.net",
-      "Rank": 16701
-    },
-    {
-      "Name": "palpay.ps",
-      "Rank": 460661
-    },
-    {
-      "Name": "palweather.ps",
-      "Rank": 283413
+      "Name": "paltel.ps",
+      "Rank": 658332
     },
     {
       "Name": "pnn.ps",
-      "Rank": 187344
+      "Rank": 183079
+    },
+    {
+      "Name": "ra-sl.ps",
+      "Rank": 990780
     },
     {
       "Name": "rawafed.edu.ps",
-      "Rank": 91258
+      "Rank": 605401
     },
     {
       "Name": "safa.ps",
-      "Rank": 164897
-    },
-    {
-      "Name": "samanews.ps",
-      "Rank": 26593
-    },
-    {
-      "Name": "shehabnews.com",
-      "Rank": 57822
-    },
-    {
-      "Name": "thaqefna.com",
-      "Rank": 748985
+      "Rank": 290365
     },
     {
       "Name": "wafa.ps",
-      "Rank": 92682
-    },
-    {
-      "Name": "wattan.tv",
-      "Rank": 70701
+      "Rank": 87461
     }
   ]
 }
