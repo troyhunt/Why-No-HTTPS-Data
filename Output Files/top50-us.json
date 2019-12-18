@@ -58,6 +58,10 @@
       "Rank": 505
     },
     {
+      "Name": "gnu.org",
+      "Rank": 153
+    },
+    {
       "Name": "go.com",
       "Rank": 129
     },
@@ -98,10 +102,6 @@
       "Rank": 948
     },
     {
-      "Name": "medicinenet.com",
-      "Rank": 1075
-    },
-    {
       "Name": "mit.edu",
       "Rank": 150
     },
@@ -110,12 +110,12 @@
       "Rank": 301
     },
     {
-      "Name": "msftconnecttest.com",
-      "Rank": 520
-    },
-    {
       "Name": "myshopify.com",
       "Rank": 111
+    },
+    {
+      "Name": "nature.com",
+      "Rank": 242
     },
     {
       "Name": "nyu.edu",
