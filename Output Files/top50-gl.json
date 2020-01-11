@@ -2,6 +2,14 @@
   "CountryName": "Greenland",
   "Domains": [
     {
+      "Name": "bos.gl",
+      "Rank": 102755
+    },
+    {
+      "Name": "ir.gl",
+      "Rank": 75799
+    },
+    {
       "Name": "natur.gl",
       "Rank": 977143
     }

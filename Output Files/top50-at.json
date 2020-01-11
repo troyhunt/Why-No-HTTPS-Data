@@ -2,6 +2,14 @@
   "CountryName": "Austria",
   "Domains": [
     {
+      "Name": "8ung.at",
+      "Rank": 82523
+    },
+    {
+      "Name": "ad4m.at",
+      "Rank": 88745
+    },
+    {
       "Name": "alpenverein.at",
       "Rank": 103311
     },
@@ -10,36 +18,24 @@
       "Rank": 258635
     },
     {
-      "Name": "arboe.at",
-      "Rank": 353184
-    },
-    {
       "Name": "astrometry.net",
       "Rank": 332501
     },
     {
-      "Name": "bazar.at",
-      "Rank": 336794
+      "Name": "biblewebapp.com",
+      "Rank": 301378
     },
     {
-      "Name": "bev.gv.at",
-      "Rank": 481032
+      "Name": "blaulichtforum.at",
+      "Rank": 75953
     },
     {
       "Name": "c-heads.com",
       "Rank": 170509
     },
     {
-      "Name": "cinema-paradiso.at",
-      "Rank": 429494
-    },
-    {
       "Name": "cricworld.club",
       "Rank": 199385
-    },
-    {
-      "Name": "cyberlord.at",
-      "Rank": 343395
     },
     {
       "Name": "cyberport.at",
@@ -54,10 +50,6 @@
       "Rank": 130082
     },
     {
-      "Name": "easy-booking.at",
-      "Rank": 341233
-    },
-    {
       "Name": "feratel.at",
       "Rank": 290184
     },
@@ -70,12 +62,16 @@
       "Rank": 161601
     },
     {
-      "Name": "fk-austria.at",
-      "Rank": 374930
-    },
-    {
       "Name": "gzhls.at",
       "Rank": 153413
+    },
+    {
+      "Name": "hak-lienz.at",
+      "Rank": 279195
+    },
+    {
+      "Name": "heim.at",
+      "Rank": 111617
     },
     {
       "Name": "heimat.eu",
@@ -86,36 +82,36 @@
       "Rank": 256791
     },
     {
-      "Name": "kobakant.at",
-      "Rank": 361323
-    },
-    {
       "Name": "kunsthallewien.at",
       "Rank": 247734
     },
     {
-      "Name": "microbehunter.com",
-      "Rank": 425547
+      "Name": "lebe-lang.at",
+      "Rank": 213183
+    },
+    {
+      "Name": "mak.at",
+      "Rank": 108419
+    },
+    {
+      "Name": "mindtrip.at",
+      "Rank": 79343
     },
     {
       "Name": "moz.ac.at",
       "Rank": 254016
     },
     {
+      "Name": "museum-joanneum.at",
+      "Rank": 106030
+    },
+    {
       "Name": "neiflex.at",
       "Rank": 139444
     },
     {
-      "Name": "philo.at",
-      "Rank": 373881
-    },
-    {
       "Name": "pokaz.me",
       "Rank": 118932
-    },
-    {
-      "Name": "porgy.at",
-      "Rank": 436933
     },
     {
       "Name": "prater.at",
@@ -130,8 +126,12 @@
       "Rank": 27364
     },
     {
-      "Name": "reconstructme.net",
-      "Rank": 486031
+      "Name": "rc-world-austria.at",
+      "Rank": 130288
+    },
+    {
+      "Name": "rg-web.at",
+      "Rank": 68421
     },
     {
       "Name": "rosenheimwetter.de",
@@ -154,12 +154,12 @@
       "Rank": 83778
     },
     {
-      "Name": "synthanatomy.com",
-      "Rank": 459271
+      "Name": "thedailywh.at",
+      "Rank": 95772
     },
     {
-      "Name": "three.com",
-      "Rank": 396710
+      "Name": "trinkhorn.at",
+      "Rank": 119111
     },
     {
       "Name": "turkcinema.me",
@@ -182,20 +182,20 @@
       "Rank": 325135
     },
     {
+      "Name": "vikingstown.at",
+      "Rank": 96799
+    },
+    {
       "Name": "visitingvienna.com",
       "Rank": 321440
     },
     {
-      "Name": "weekend.at",
-      "Rank": 403830
+      "Name": "waust.at",
+      "Rank": 61023
     },
     {
-      "Name": "week-number.net",
-      "Rank": 341523
-    },
-    {
-      "Name": "wienkav.at",
-      "Rank": 425379
+      "Name": "wkoecg.at",
+      "Rank": 99266
     },
     {
       "Name": "ztkammer.at",

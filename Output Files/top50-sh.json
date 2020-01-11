@@ -2,6 +2,10 @@
   "CountryName": "Saint Helena, Ascension and Tristan da Cunha",
   "Domains": [
     {
+      "Name": "ally.ac",
+      "Rank": 15420
+    },
+    {
       "Name": "amo.sh",
       "Rank": 723460
     },
@@ -16,6 +20,10 @@
     {
       "Name": "nothing.sh",
       "Rank": 556530
+    },
+    {
+      "Name": "speedy.sh",
+      "Rank": 76399
     },
     {
       "Name": "wap.sh",

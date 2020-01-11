@@ -10,16 +10,20 @@
       "Rank": 352671
     },
     {
+      "Name": "croatia.hr",
+      "Rank": 32506
+    },
+    {
       "Name": "croportal.net",
       "Rank": 214988
     },
     {
-      "Name": "enciklopedija.hr",
-      "Rank": 322696
+      "Name": "dodir.hr",
+      "Rank": 130451
     },
     {
-      "Name": "face-rec.org",
-      "Rank": 470200
+      "Name": "enciklopedija.hr",
+      "Rank": 322696
     },
     {
       "Name": "ffri.hr",
@@ -58,12 +62,12 @@
       "Rank": 296377
     },
     {
-      "Name": "ht.hr",
-      "Rank": 329238
+      "Name": "hpd-malacka.hr",
+      "Rank": 118171
     },
     {
-      "Name": "hzpp.hr",
-      "Rank": 494975
+      "Name": "ht.hr",
+      "Rank": 329238
     },
     {
       "Name": "inet.hr",
@@ -72,6 +76,10 @@
     {
       "Name": "instar-informatika.hr",
       "Rank": 287719
+    },
+    {
+      "Name": "jeklotehna-ting.hr",
+      "Rank": 131553
     },
     {
       "Name": "journal.hr",
@@ -88,10 +96,6 @@
     {
       "Name": "magazinedesigning.com",
       "Rank": 432647
-    },
-    {
-      "Name": "medjugorje.hr",
-      "Rank": 474202
     },
     {
       "Name": "meendoru.net",
@@ -126,16 +130,12 @@
       "Rank": 367698
     },
     {
-      "Name": "np-krka.hr",
-      "Rank": 539316
-    },
-    {
       "Name": "nsk.hr",
       "Rank": 210585
     },
     {
-      "Name": "osijek031.com",
-      "Rank": 463237
+      "Name": "okud-istra.hr",
+      "Rank": 125555
     },
     {
       "Name": "otvoreni.hr",
@@ -146,16 +146,12 @@
       "Rank": 362635
     },
     {
-      "Name": "pljusak.com",
-      "Rank": 496261
+      "Name": "pdkrndija.hr",
+      "Rank": 124664
     },
     {
       "Name": "poslovni.hr",
       "Rank": 113999
-    },
-    {
-      "Name": "prognoza.hr",
-      "Rank": 462708
     },
     {
       "Name": "sketchupartists.org",
@@ -178,10 +174,6 @@
       "Rank": 225682
     },
     {
-      "Name": "tvhr.net",
-      "Rank": 471703
-    },
-    {
       "Name": "tzdubrovnik.hr",
       "Rank": 347267
     },
@@ -194,12 +186,20 @@
       "Rank": 437333
     },
     {
+      "Name": "utp.hr",
+      "Rank": 101627
+    },
+    {
       "Name": "zaba.hr",
       "Rank": 129143
     },
     {
       "Name": "zet.hr",
       "Rank": 359290
+    },
+    {
+      "Name": "zlatnimedvjed.com.hr",
+      "Rank": 126001
     }
   ]
 }

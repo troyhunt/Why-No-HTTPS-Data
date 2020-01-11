@@ -2,12 +2,16 @@
   "CountryName": "Romania",
   "Domains": [
     {
+      "Name": "3x.ro",
+      "Rank": 74786
+    },
+    {
       "Name": "adsb4trk.com",
       "Rank": 38052
     },
     {
-      "Name": "amigurumi.today",
-      "Rank": 145716
+      "Name": "afilbv.ro",
+      "Rank": 59504
     },
     {
       "Name": "asgclick.com",
@@ -16,6 +20,10 @@
     {
       "Name": "best-hashtags.com",
       "Rank": 35317
+    },
+    {
+      "Name": "botorka.ro",
+      "Rank": 109460
     },
     {
       "Name": "botosani.ro",
@@ -38,12 +46,20 @@
       "Rank": 81360
     },
     {
-      "Name": "ceccartimis.ro",
-      "Rank": 129710
+      "Name": "ceccarcalarasi.ro",
+      "Rank": 103713
     },
     {
-      "Name": "cimec.ro",
-      "Rank": 147815
+      "Name": "ceccarilfov.ro",
+      "Rank": 108869
+    },
+    {
+      "Name": "ceccarvalcea.ro",
+      "Rank": 108233
+    },
+    {
+      "Name": "condensareimmergas.ro",
+      "Rank": 100209
     },
     {
       "Name": "drappessohibly.pro",
@@ -52,10 +68,6 @@
     {
       "Name": "e-licitatie.ro",
       "Rank": 95242
-    },
-    {
-      "Name": "epochtimes-romania.com",
-      "Rank": 144365
     },
     {
       "Name": "filmeserialeonline.org",
@@ -74,24 +86,20 @@
       "Rank": 32900
     },
     {
-      "Name": "good-boxes.com",
-      "Rank": 113037
+      "Name": "hargitatours.ro",
+      "Rank": 105354
     },
     {
       "Name": "impeacknow.xyz",
       "Rank": 39475
     },
     {
-      "Name": "isjbotosani.ro",
-      "Rank": 113921
+      "Name": "ipa.ro",
+      "Rank": 102551
     },
     {
       "Name": "just.ro",
       "Rank": 41475
-    },
-    {
-      "Name": "lab501.ro",
-      "Rank": 114135
     },
     {
       "Name": "mae.ro",
@@ -106,16 +114,16 @@
       "Rank": 89262
     },
     {
+      "Name": "modelvideochat.ro",
+      "Rank": 82702
+    },
+    {
       "Name": "pefilme.net",
       "Rank": 51727
     },
     {
       "Name": "pizdeporno.net",
       "Rank": 62564
-    },
-    {
-      "Name": "pmb.ro",
-      "Rank": 142868
     },
     {
       "Name": "posecoug.pro",
@@ -142,16 +150,8 @@
       "Rank": 106005
     },
     {
-      "Name": "scritub.com",
-      "Rank": 139040
-    },
-    {
       "Name": "sfatulmedicului.ro",
       "Rank": 86946
-    },
-    {
-      "Name": "tion.ro",
-      "Rank": 138385
     },
     {
       "Name": "trafic.ro",
@@ -162,10 +162,6 @@
       "Rank": 83331
     },
     {
-      "Name": "tribuna.ro",
-      "Rank": 112360
-    },
-    {
       "Name": "trilulilu.ro",
       "Rank": 69054
     },
@@ -174,20 +170,24 @@
       "Rank": 78242
     },
     {
-      "Name": "tv-sport-hd.com",
-      "Rank": 139264
-    },
-    {
       "Name": "uaic.ro",
       "Rank": 46789
+    },
+    {
+      "Name": "urologbun.ro",
+      "Rank": 74679
     },
     {
       "Name": "uv.ro",
       "Rank": 22458
     },
     {
-      "Name": "vremea.net",
-      "Rank": 134443
+      "Name": "vestiro.ro",
+      "Rank": 94398
+    },
+    {
+      "Name": "wdazone.ro",
+      "Rank": 63584
     },
     {
       "Name": "xfilme-online.org",

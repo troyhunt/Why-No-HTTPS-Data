@@ -2,6 +2,10 @@
   "CountryName": "Saint Vincent and the Grenadines",
   "Domains": [
     {
+      "Name": "nt.vc",
+      "Rank": 12033
+    },
+    {
       "Name": "ve.vc",
       "Rank": 757414
     },

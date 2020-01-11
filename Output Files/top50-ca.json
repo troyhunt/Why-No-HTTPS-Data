@@ -6,6 +6,10 @@
       "Rank": 34290
     },
     {
+      "Name": "163.ca",
+      "Rank": 33017
+    },
+    {
       "Name": "51.ca",
       "Rank": 36558
     },
@@ -56,10 +60,6 @@
     {
       "Name": "concordia.ca",
       "Rank": 6421
-    },
-    {
-      "Name": "dingdang.ca",
-      "Rank": 40125
     },
     {
       "Name": "discovermymobility.com",
@@ -130,12 +130,12 @@
       "Rank": 32482
     },
     {
-      "Name": "jumptxt.com",
-      "Rank": 44614
-    },
-    {
       "Name": "mec.ca",
       "Rank": 17263
+    },
+    {
+      "Name": "metronews.ca",
+      "Rank": 15354
     },
     {
       "Name": "point2homes.com",
@@ -190,16 +190,16 @@
       "Rank": 36257
     },
     {
-      "Name": "whitepages.ca",
-      "Rank": 41184
-    },
-    {
       "Name": "xanga.com",
       "Rank": 6434
     },
     {
       "Name": "yorku.ca",
       "Rank": 3094
+    },
+    {
+      "Name": "zoneti.ca",
+      "Rank": 29077
     }
   ]
 }

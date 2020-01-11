@@ -2,6 +2,10 @@
   "CountryName": "Timor-Leste",
   "Domains": [
     {
+      "Name": "p.tl",
+      "Rank": 113416
+    },
+    {
       "Name": "sapo.tl",
       "Rank": 547013
     },

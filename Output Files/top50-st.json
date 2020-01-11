@@ -2,6 +2,10 @@
   "CountryName": "Sao Tome and Principe",
   "Domains": [
     {
+      "Name": "glfdig.st",
+      "Rank": 98615
+    },
+    {
       "Name": "learni.st",
       "Rank": 172742
     },

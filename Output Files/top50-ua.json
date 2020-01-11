@@ -2,14 +2,6 @@
   "CountryName": "Ukraine",
   "Domains": [
     {
-      "Name": "000space.com",
-      "Rank": 72422
-    },
-    {
-      "Name": "antikor.com.ua",
-      "Rank": 68678
-    },
-    {
       "Name": "baskino.me",
       "Rank": 2457
     },
@@ -38,12 +30,24 @@
       "Rank": 45579
     },
     {
+      "Name": "dzintars-kiev.com.ua",
+      "Rank": 37506
+    },
+    {
+      "Name": "dzzzr.org.ua",
+      "Rank": 48899
+    },
+    {
       "Name": "eldorado.ua",
       "Rank": 67201
     },
     {
       "Name": "favorit.com.ua",
       "Rank": 24903
+    },
+    {
+      "Name": "finway.com.ua",
+      "Rank": 67804
     },
     {
       "Name": "fwdcdn.com",
@@ -60,6 +64,10 @@
     {
       "Name": "holder.com.ua",
       "Rank": 66045
+    },
+    {
+      "Name": "inf.ua",
+      "Rank": 64391
     },
     {
       "Name": "ismatlab.com",
@@ -106,14 +114,6 @@
       "Rank": 67985
     },
     {
-      "Name": "myappfree.com",
-      "Rank": 73151
-    },
-    {
-      "Name": "nbuv.gov.ua",
-      "Rank": 69198
-    },
-    {
       "Name": "new-rutor.org",
       "Rank": 24396
     },
@@ -134,20 +134,20 @@
       "Rank": 37847
     },
     {
-      "Name": "pornosveta.cc",
-      "Rank": 71481
-    },
-    {
       "Name": "poshukach.com",
       "Rank": 23968
     },
     {
-      "Name": "powerpointbase.com",
-      "Rank": 71987
+      "Name": "poznanie.com.ua",
+      "Rank": 11161
     },
     {
       "Name": "pp.ua",
       "Rank": 2867
+    },
+    {
+      "Name": "prozagar.com.ua",
+      "Rank": 64855
     },
     {
       "Name": "rnbo.gov.ua",
@@ -186,12 +186,12 @@
       "Rank": 64108
     },
     {
-      "Name": "ukrkarta.ua",
-      "Rank": 50692
+      "Name": "ugyplysh.com",
+      "Rank": 12161
     },
     {
-      "Name": "ukrstat.gov.ua",
-      "Rank": 73431
+      "Name": "ukrkarta.ua",
+      "Rank": 50692
     },
     {
       "Name": "vsetv.com",

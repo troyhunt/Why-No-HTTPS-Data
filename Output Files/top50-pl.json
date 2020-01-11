@@ -2,10 +2,6 @@
   "CountryName": "Poland",
   "Domains": [
     {
-      "Name": "alltube.pl",
-      "Rank": 52661
-    },
-    {
       "Name": "auschwitz.org",
       "Rank": 47407
     },
@@ -22,8 +18,16 @@
       "Rank": 15408
     },
     {
-      "Name": "blitzortung.org",
-      "Rank": 53236
+      "Name": "blog.pl",
+      "Rank": 22089
+    },
+    {
+      "Name": "bloggg.pl",
+      "Rank": 36261
+    },
+    {
+      "Name": "bloog.pl",
+      "Rank": 20819
     },
     {
       "Name": "blox.pl",
@@ -32,10 +36,6 @@
     {
       "Name": "brainly.pl",
       "Rank": 33182
-    },
-    {
-      "Name": "byd.pl",
-      "Rank": 51903
     },
     {
       "Name": "chomikuj.pl",
@@ -60,10 +60,6 @@
     {
       "Name": "go2linkfast.com",
       "Rank": 12253
-    },
-    {
-      "Name": "hd-smotri.club",
-      "Rank": 47783
     },
     {
       "Name": "hekko24.pl",
@@ -104,10 +100,6 @@
     {
       "Name": "meteo.pl",
       "Rank": 27229
-    },
-    {
-      "Name": "moto.pl",
-      "Rank": 53974
     },
     {
       "Name": "nbp.pl",
@@ -196,6 +188,14 @@
     {
       "Name": "wyborcza.biz",
       "Rank": 41992
+    },
+    {
+      "Name": "xaa.pl",
+      "Rank": 16379
+    },
+    {
+      "Name": "za.pl",
+      "Rank": 29476
     },
     {
       "Name": "zalando.pl",

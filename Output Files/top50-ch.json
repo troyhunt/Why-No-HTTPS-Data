@@ -2,40 +2,40 @@
   "CountryName": "Switzerland",
   "Domains": [
     {
-      "Name": "agefi.com",
-      "Rank": 183427
-    },
-    {
       "Name": "babytorrents.net",
       "Rank": 51566
+    },
+    {
+      "Name": "boesch-web.ch",
+      "Rank": 108331
+    },
+    {
+      "Name": "cttpeseux.ch",
+      "Rank": 114240
+    },
+    {
+      "Name": "diana-aubonne.ch",
+      "Rank": 129089
     },
     {
       "Name": "didatuan.com",
       "Rank": 146458
     },
     {
-      "Name": "dmoz.com",
-      "Rank": 200058
-    },
-    {
-      "Name": "easyhits4u.net",
-      "Rank": 185100
+      "Name": "ecmm.ch",
+      "Rank": 103310
     },
     {
       "Name": "educanet2.ch",
       "Rank": 120391
     },
     {
+      "Name": "elisa.ch",
+      "Rank": 83566
+    },
+    {
       "Name": "euratlas.net",
       "Rank": 161363
-    },
-    {
-      "Name": "fih.ch",
-      "Rank": 172816
-    },
-    {
-      "Name": "fim-live.com",
-      "Rank": 165489
     },
     {
       "Name": "flos-freeware.ch",
@@ -54,12 +54,12 @@
       "Rank": 54105
     },
     {
-      "Name": "idsia.ch",
-      "Rank": 115561
+      "Name": "honcode.ch",
+      "Rank": 35875
     },
     {
-      "Name": "ikejaelectric.com",
-      "Rank": 198195
+      "Name": "idsia.ch",
+      "Rank": 115561
     },
     {
       "Name": "infomaniak.website",
@@ -70,16 +70,20 @@
       "Rank": 157630
     },
     {
+      "Name": "midnitemusic.ch",
+      "Rank": 128265
+    },
+    {
+      "Name": "modellflug-total.ch",
+      "Rank": 75870
+    },
+    {
       "Name": "moneyhouse.ch",
       "Rank": 44363
     },
     {
-      "Name": "mundosap.com",
-      "Rank": 166749
-    },
-    {
-      "Name": "news.ch",
-      "Rank": 200056
+      "Name": "nikeairmaxschweiz.ch",
+      "Rank": 105841
     },
     {
       "Name": "ozone3d.net",
@@ -94,20 +98,20 @@
       "Rank": 138245
     },
     {
-      "Name": "ps3fanboy.com",
-      "Rank": 170867
+      "Name": "psychotherapieforschung.ch",
+      "Rank": 58465
     },
     {
-      "Name": "rro.ch",
-      "Rank": 176133
+      "Name": "renegade-angel.ch",
+      "Rank": 94874
+    },
+    {
+      "Name": "reposit.ch",
+      "Rank": 110348
     },
     {
       "Name": "rtpdn11.com",
       "Rank": 67420
-    },
-    {
-      "Name": "schweizmobil.ch",
-      "Rank": 196690
     },
     {
       "Name": "scott-sports.com",
@@ -130,32 +134,20 @@
       "Rank": 76770
     },
     {
-      "Name": "startsear.ch",
-      "Rank": 189239
-    },
-    {
       "Name": "stoptb.org",
       "Rank": 135812
     },
     {
-      "Name": "sui-inter.net",
-      "Rank": 194605
-    },
-    {
-      "Name": "supsi.ch",
-      "Rank": 170498
-    },
-    {
-      "Name": "swissanwalt.ch",
-      "Rank": 181982
+      "Name": "swissheritagecars.ch",
+      "Rank": 89836
     },
     {
       "Name": "tio.ch",
       "Rank": 72833
     },
     {
-      "Name": "torch.ch",
-      "Rank": 205306
+      "Name": "top-domains.ch",
+      "Rank": 65846
     },
     {
       "Name": "trees-of-life.org",
@@ -190,16 +182,24 @@
       "Rank": 145919
     },
     {
-      "Name": "versacommerce.de",
-      "Rank": 200005
+      "Name": "vespa-classic-club-geneve.ch",
+      "Rank": 52891
+    },
+    {
+      "Name": "wemfbox.ch",
+      "Rank": 100149
     },
     {
       "Name": "worldtempus.com",
       "Rank": 164377
     },
     {
-      "Name": "zalando-lounge.ch",
-      "Rank": 202687
+      "Name": "wwf.ch",
+      "Rank": 79893
+    },
+    {
+      "Name": "zer0day.ch",
+      "Rank": 92796
     }
   ]
 }

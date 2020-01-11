@@ -2,6 +2,10 @@
   "CountryName": "Philippines",
   "Domains": [
     {
+      "Name": "2pairs.site",
+      "Rank": 217164
+    },
+    {
       "Name": "abante.com.ph",
       "Rank": 33853
     },
@@ -28,10 +32,6 @@
     {
       "Name": "brainly.ph",
       "Rank": 39366
-    },
-    {
-      "Name": "brideandbreakfast.ph",
-      "Rank": 294400
     },
     {
       "Name": "chanrobles.com",
@@ -78,12 +78,12 @@
       "Rank": 180570
     },
     {
-      "Name": "guroako.com",
-      "Rank": 294080
-    },
-    {
       "Name": "handycafe.com",
       "Rank": 104017
+    },
+    {
+      "Name": "ict.ph",
+      "Rank": 83767
     },
     {
       "Name": "immigration.gov.ph",
@@ -92,6 +92,10 @@
     {
       "Name": "interaksyon.com",
       "Rank": 53560
+    },
+    {
+      "Name": "karmaweather.com",
+      "Rank": 233823
     },
     {
       "Name": "keepbelieving.com",
@@ -130,6 +134,10 @@
       "Rank": 91878
     },
     {
+      "Name": "omsc.edu.ph",
+      "Rank": 132510
+    },
+    {
       "Name": "pcso.gov.ph",
       "Rank": 181923
     },
@@ -142,24 +150,12 @@
       "Rank": 120095
     },
     {
-      "Name": "philsite.net",
-      "Rank": 289082
-    },
-    {
-      "Name": "pldt.com.ph",
-      "Rank": 287812
-    },
-    {
       "Name": "pnp.gov.ph",
       "Rank": 142826
     },
     {
       "Name": "poea.gov.ph",
       "Rank": 113962
-    },
-    {
-      "Name": "pup.edu.ph",
-      "Rank": 286747
     },
     {
       "Name": "rcampus.com",
@@ -176,6 +172,10 @@
     {
       "Name": "senate.gov.ph",
       "Rank": 156438
+    },
+    {
+      "Name": "tempo.com.ph",
+      "Rank": 222777
     },
     {
       "Name": "tesda.gov.ph",

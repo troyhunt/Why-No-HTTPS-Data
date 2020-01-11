@@ -2,6 +2,10 @@
   "CountryName": "Palestine, State of",
   "Domains": [
     {
+      "Name": "addameer.org",
+      "Rank": 284275
+    },
+    {
       "Name": "al-ayyam.ps",
       "Rank": 524563
     },
@@ -22,8 +26,16 @@
       "Rank": 948638
     },
     {
+      "Name": "jalo.ps",
+      "Rank": 94269
+    },
+    {
       "Name": "maannews.net",
       "Rank": 32404
+    },
+    {
+      "Name": "meetu.ps",
+      "Rank": 56761
     },
     {
       "Name": "paltel.ps",

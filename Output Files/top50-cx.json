@@ -2,6 +2,14 @@
   "CountryName": "Christmas Island",
   "Domains": [
     {
+      "Name": "analog.cx",
+      "Rank": 113599
+    },
+    {
+      "Name": "echo.cx",
+      "Rank": 26030
+    },
+    {
       "Name": "en.cx",
       "Rank": 220930
     },
@@ -14,6 +22,10 @@
       "Rank": 277485
     },
     {
+      "Name": "fc.cx",
+      "Rank": 78894
+    },
+    {
       "Name": "it.cx",
       "Rank": 474936
     },
@@ -24,6 +36,10 @@
     {
       "Name": "ma.cx",
       "Rank": 347023
+    },
+    {
+      "Name": "nav.cx",
+      "Rank": 30645
     },
     {
       "Name": "pow.cx",
