@@ -2,24 +2,20 @@
   "CountryName": "Zambia",
   "Domains": [
     {
-      "Name": "daily-mail.co.zm",
-      "Rank": 162725
+      "Name": "autodoc.co.uk",
+      "Rank": 109520
     },
     {
-      "Name": "exams-council.org.zm",
-      "Rank": 592575
+      "Name": "daily-mail.co.zm",
+      "Rank": 142007
     },
     {
       "Name": "napsa.co.zm",
-      "Rank": 481401
+      "Rank": 393124
     },
     {
-      "Name": "zambiaimmigration.gov.zm",
-      "Rank": 499946
-    },
-    {
-      "Name": "zica.co.zm",
-      "Rank": 739071
+      "Name": "unilus.ac.zm",
+      "Rank": 628657
     }
   ]
 }

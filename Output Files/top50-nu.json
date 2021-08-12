@@ -2,72 +2,56 @@
   "CountryName": "Niue",
   "Domains": [
     {
-      "Name": "abel.nu",
-      "Rank": 552382
-    },
-    {
       "Name": "addurl.nu",
-      "Rank": 131863
+      "Rank": 66462
     },
     {
       "Name": "alf.nu",
-      "Rank": 870349
-    },
-    {
-      "Name": "com.nu",
-      "Rank": 413008
+      "Rank": 585368
     },
     {
       "Name": "courant.nu",
-      "Rank": 591716
+      "Rank": 380621
     },
     {
-      "Name": "ladydahmer.nu",
-      "Rank": 487176
+      "Name": "karleriks.nu",
+      "Rank": 108399
     },
     {
-      "Name": "li.nu",
-      "Rank": 715592
-    },
-    {
-      "Name": "liga.nu",
-      "Rank": 125840
-    },
-    {
-      "Name": "mature.nu",
-      "Rank": 585977
+      "Name": "ladda-ner-spel.nu",
+      "Rank": 63400
     },
     {
       "Name": "mee.nu",
-      "Rank": 18699
+      "Rank": 10134
     },
     {
       "Name": "n.nu",
-      "Rank": 34816
+      "Rank": 35399
+    },
+    {
+      "Name": "nemcom.nu",
+      "Rank": 59565
     },
     {
       "Name": "nu2.nu",
-      "Rank": 82409
+      "Rank": 72665
     },
     {
-      "Name": "santanderconsumer.nu",
-      "Rank": 425254
-    },
-    {
-      "Name": "suriname.nu",
-      "Rank": 929431
-    },
-    {
-      "Name": "vapenfakta.nu",
-      "Rank": 132893
+      "Name": "veterinaren.nu",
+      "Rank": 939374
     },
     {
       "Name": "voynich.nu",
-      "Rank": 446427
+      "Rank": 511094
+    },
+    {
+      "Name": "watermelon.nu",
+      "Rank": 109152
     },
     {
       "Name": "webweaver.nu",
-      "Rank": 161470
+      "Rank": 249779
     }
   ]
 }

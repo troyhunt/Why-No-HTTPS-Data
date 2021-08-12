@@ -2,204 +2,196 @@
   "CountryName": "Slovenia",
   "Domains": [
     {
-      "Name": "123movieshub.vip",
-      "Rank": 105127
-    },
-    {
       "Name": "adria.si",
-      "Rank": 89786
+      "Rank": 98084
     },
     {
-      "Name": "appia.si",
-      "Rank": 112713
+      "Name": "betoo.si",
+      "Rank": 87580
     },
     {
       "Name": "biomedtech.si",
-      "Rank": 113732
-    },
-    {
-      "Name": "bizi.si",
-      "Rank": 226962
-    },
-    {
-      "Name": "blic.si",
-      "Rank": 530348
+      "Rank": 171621
     },
     {
       "Name": "block.si",
-      "Rank": 61737
-    },
-    {
-      "Name": "bq.si",
-      "Rank": 486712
+      "Rank": 231153
     },
     {
       "Name": "chaine.si",
-      "Rank": 126857
+      "Rank": 227514
+    },
+    {
+      "Name": "controlpanel.si",
+      "Rank": 853786
     },
     {
       "Name": "csd-radovljica.si",
-      "Rank": 114460
+      "Rank": 193048
     },
     {
       "Name": "defenddemocracy.press",
-      "Rank": 398737
-    },
-    {
-      "Name": "demokracija.si",
-      "Rank": 377830
-    },
-    {
-      "Name": "demonii.si",
-      "Rank": 71127
+      "Rank": 418559
     },
     {
       "Name": "dlib.si",
-      "Rank": 336843
+      "Rank": 264202
     },
     {
-      "Name": "dotmetrics.net",
-      "Rank": 76949
-    },
-    {
-      "Name": "dreevoo.com",
-      "Rank": 343855
+      "Name": "elitetorrent.si",
+      "Rank": 89395
     },
     {
       "Name": "ergonomija.com",
-      "Rank": 757610
+      "Rank": 549035
+    },
+    {
+      "Name": "geopedia.si",
+      "Rank": 775644
+    },
+    {
+      "Name": "ghosthis.review",
+      "Rank": 48263
     },
     {
       "Name": "gorenje.com",
-      "Rank": 118564
+      "Rank": 62193
     },
     {
       "Name": "gorenjskiglas.si",
-      "Rank": 625619
+      "Rank": 469643
     },
     {
-      "Name": "hribi.net",
-      "Rank": 328838
+      "Name": "kisscenter.net",
+      "Rank": 33473
     },
     {
-      "Name": "kinox.si",
-      "Rank": 693049
+      "Name": "kozjansko.info",
+      "Rank": 868440
     },
     {
-      "Name": "kriptoforum.si",
-      "Rank": 108327
+      "Name": "mg-lj.si",
+      "Rank": 416381
     },
     {
-      "Name": "ljse.si",
-      "Rank": 560820
-    },
-    {
-      "Name": "maribor.si",
-      "Rank": 702395
-    },
-    {
-      "Name": "maxairsoft.com",
-      "Rank": 649868
-    },
-    {
-      "Name": "mladipodjetnik.si",
-      "Rank": 281351
+      "Name": "mojblink.si",
+      "Rank": 543168
     },
     {
       "Name": "mojforum.si",
-      "Rank": 298596
+      "Rank": 369117
     },
     {
       "Name": "najdi.si",
-      "Rank": 61931
+      "Rank": 74250
     },
     {
       "Name": "nangaspace.com",
-      "Rank": 300598
+      "Rank": 720116
     },
     {
-      "Name": "okusno.je",
-      "Rank": 508258
+      "Name": "oglasi.si",
+      "Rank": 678680
+    },
+    {
+      "Name": "papyri.info",
+      "Rank": 620497
+    },
+    {
+      "Name": "partis.si",
+      "Rank": 119602
     },
     {
       "Name": "pisrs.si",
-      "Rank": 251562
+      "Rank": 126026
+    },
+    {
+      "Name": "portalplus.si",
+      "Rank": 796299
     },
     {
       "Name": "radio1.si",
-      "Rank": 402910
+      "Rank": 249289
     },
     {
-      "Name": "razom.si",
-      "Rank": 103506
+      "Name": "ringaraja.net",
+      "Rank": 496732
     },
     {
-      "Name": "renault-klub.si",
-      "Rank": 822170
+      "Name": "rumenestrani.si",
+      "Rank": 69712
     },
     {
-      "Name": "rkc.si",
-      "Rank": 467111
+      "Name": "samsvojmajstor.com",
+      "Rank": 373112
     },
     {
-      "Name": "science.si",
-      "Rank": 692975
+      "Name": "servis-pintar.si",
+      "Rank": 125968
     },
     {
       "Name": "shrani.si",
-      "Rank": 88249
-    },
-    {
-      "Name": "slo-podnapisi.net",
-      "Rank": 483179
-    },
-    {
-      "Name": "sloveniatimes.com",
-      "Rank": 285024
-    },
-    {
-      "Name": "sodisce.si",
-      "Rank": 309142
+      "Rank": 104260
     },
     {
       "Name": "sos112.si",
-      "Rank": 589050
+      "Rank": 413891
     },
     {
       "Name": "tenis-klubmoj.si",
-      "Rank": 107757
+      "Rank": 96585
+    },
+    {
+      "Name": "termania.net",
+      "Rank": 984438
     },
     {
       "Name": "tops.si",
-      "Rank": 126895
+      "Rank": 140996
     },
     {
-      "Name": "triglav.si",
-      "Rank": 696402
-    },
-    {
-      "Name": "tvin.si",
-      "Rank": 228955
+      "Name": "tvsporedi.si",
+      "Rank": 407033
     },
     {
       "Name": "ung.si",
-      "Rank": 532403
+      "Rank": 388299
     },
     {
       "Name": "urusoft.net",
-      "Rank": 331446
+      "Rank": 172554
     },
     {
       "Name": "vecer.com",
-      "Rank": 148827
+      "Rank": 139604
+    },
+    {
+      "Name": "velenje.com",
+      "Rank": 314837
+    },
+    {
+      "Name": "viva.si",
+      "Rank": 462043
+    },
+    {
+      "Name": "vogel.si",
+      "Rank": 638001
+    },
+    {
+      "Name": "vreme-ziri.si",
+      "Rank": 304502
+    },
+    {
+      "Name": "vsikatalogi.si",
+      "Rank": 874810
     },
     {
       "Name": "writemonkey.com",
-      "Rank": 214699
+      "Rank": 320673
     },
     {
-      "Name": "zzzs.si",
-      "Rank": 633702
+      "Name": "xn--zobozdravstvo-kriaj-wfe.si",
+      "Rank": 132145
     }
   ]
 }

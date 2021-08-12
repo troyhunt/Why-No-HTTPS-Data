@@ -2,140 +2,100 @@
   "CountryName": "Bosnia and Herzegovina",
   "Domains": [
     {
-      "Name": "avon.ba",
-      "Rank": 427100
-    },
-    {
       "Name": "bbi.ba",
-      "Rank": 849866
-    },
-    {
-      "Name": "bih.net.ba",
-      "Rank": 405125
+      "Rank": 489651
     },
     {
       "Name": "biznis.ba",
-      "Rank": 109713
-    },
-    {
-      "Name": "blic.net",
-      "Rank": 487223
-    },
-    {
-      "Name": "blogger.ba",
-      "Rank": 234003
-    },
-    {
-      "Name": "boxxxe.com",
-      "Rank": 257190
+      "Rank": 913944
     },
     {
       "Name": "co.ba",
-      "Rank": 458669
+      "Rank": 218630
     },
     {
-      "Name": "federalna.ba",
-      "Rank": 578067
+      "Name": "europa.ba",
+      "Rank": 279905
     },
     {
-      "Name": "fena.ba",
-      "Rank": 328901
+      "Name": "expresstabloid.ba",
+      "Rank": 44339
+    },
+    {
+      "Name": "fhmzbih.gov.ba",
+      "Rank": 635858
     },
     {
       "Name": "glassrpske.com",
-      "Rank": 212204
+      "Rank": 230071
     },
     {
       "Name": "izbori.ba",
-      "Rank": 552838
-    },
-    {
-      "Name": "komunalno.com.ba",
-      "Rank": 116003
+      "Rank": 398414
     },
     {
       "Name": "ks.gov.ba",
-      "Rank": 349406
+      "Rank": 313087
     },
     {
       "Name": "mediline.ba",
-      "Rank": 73058
+      "Rank": 245204
     },
     {
       "Name": "mod.gov.ba",
-      "Rank": 896611
+      "Rank": 344372
+    },
+    {
+      "Name": "mojusk.ba",
+      "Rank": 711143
     },
     {
       "Name": "mondo.ba",
-      "Rank": 649725
+      "Rank": 334279
+    },
+    {
+      "Name": "oslobodjenje.ba",
+      "Rank": 58848
+    },
+    {
+      "Name": "ossokolje.edu.ba",
+      "Rank": 37688
     },
     {
       "Name": "piramidasunca.ba",
-      "Rank": 440804
+      "Rank": 437548
+    },
+    {
+      "Name": "pufbih.ba",
+      "Rank": 886888
     },
     {
       "Name": "radiokameleon.ba",
-      "Rank": 809173
+      "Rank": 965390
     },
     {
       "Name": "rarbgto.org",
-      "Rank": 54408
+      "Rank": 207611
     },
     {
       "Name": "rsg.ba",
-      "Rank": 730501
-    },
-    {
-      "Name": "saff.ba",
-      "Rank": 536980
-    },
-    {
-      "Name": "sarajevotimes.com",
-      "Rank": 348682
-    },
-    {
-      "Name": "slobodna-bosna.ba",
-      "Rank": 105091
-    },
-    {
-      "Name": "sop.ba",
-      "Rank": 804470
+      "Rank": 844319
     },
     {
       "Name": "source.ba",
-      "Rank": 198101
-    },
-    {
-      "Name": "sue.ba",
-      "Rank": 129028
+      "Rank": 269702
     },
     {
       "Name": "tip.ba",
-      "Rank": 618077
+      "Rank": 472793
     },
     {
       "Name": "uino.gov.ba",
-      "Rank": 866713
-    },
-    {
-      "Name": "unibl.org",
-      "Rank": 320063
-    },
-    {
-      "Name": "unsa.ba",
-      "Rank": 62919
+      "Rank": 442735
     },
     {
       "Name": "untz.ba",
-      "Rank": 459288
-    },
-    {
-      "Name": "vladars.net",
-      "Rank": 302091
-    },
-    {
-      "Name": "znanje.org",
-      "Rank": 419496
+      "Rank": 267137
     }
   ]
 }

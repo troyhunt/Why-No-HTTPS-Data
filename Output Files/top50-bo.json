@@ -2,76 +2,40 @@
   "CountryName": "Bolivia, Plurinational State of",
   "Domains": [
     {
-      "Name": "bancounion.com.bo",
-      "Rank": 119744
+      "Name": "abt.gob.bo",
+      "Rank": 790404
     },
     {
       "Name": "cambio.bo",
-      "Rank": 458119
+      "Rank": 708969
     },
     {
-      "Name": "eju.tv",
-      "Rank": 54804
-    },
-    {
-      "Name": "elmundo.com.bo",
-      "Rank": 371991
+      "Name": "ceub.edu.bo",
+      "Rank": 124418
     },
     {
       "Name": "erbol.com.bo",
-      "Rank": 183555
+      "Rank": 182248
     },
     {
-      "Name": "lapatriaenlinea.com",
-      "Rank": 206977
+      "Name": "ese.com.bo",
+      "Rank": 131823
+    },
+    {
+      "Name": "fassilnet.com.bo",
+      "Rank": 996605
     },
     {
       "Name": "laprensa.com.bo",
-      "Rank": 313970
-    },
-    {
-      "Name": "la-razon.com",
-      "Rank": 29274
-    },
-    {
-      "Name": "megalink.com",
-      "Rank": 630732
-    },
-    {
-      "Name": "revistasbolivianas.org.bo",
-      "Rank": 566433
+      "Rank": 286013
     },
     {
       "Name": "scielo.org.bo",
-      "Rank": 160087
-    },
-    {
-      "Name": "sie.gob.bo",
-      "Rank": 222615
-    },
-    {
-      "Name": "ucb.edu.bo",
-      "Rank": 453518
-    },
-    {
-      "Name": "umsa.bo",
-      "Rank": 196601
-    },
-    {
-      "Name": "umss.edu.bo",
-      "Rank": 272047
+      "Rank": 117617
     },
     {
       "Name": "upb.edu",
-      "Rank": 597280
-    },
-    {
-      "Name": "upedagogica.edu.bo",
-      "Rank": 612958
-    },
-    {
-      "Name": "wikimedia.org.bo",
-      "Rank": 67851
+      "Rank": 439545
     }
   ]
 }

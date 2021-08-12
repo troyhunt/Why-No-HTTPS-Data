@@ -2,84 +2,64 @@
   "CountryName": "Panama",
   "Domains": [
     {
-      "Name": "asondesalsa.com.pa",
-      "Rank": 553754
-    },
-    {
-      "Name": "binal.ac.pa",
-      "Rank": 575419
-    },
-    {
       "Name": "cdntools.info",
-      "Rank": 487631
+      "Rank": 825802
+    },
+    {
+      "Name": "contraloria.gob.pa",
+      "Rank": 595849
     },
     {
       "Name": "css.gob.pa",
-      "Rank": 539641
+      "Rank": 345160
     },
     {
       "Name": "cwpanama.net",
-      "Rank": 308269
+      "Rank": 297197
     },
     {
       "Name": "efeservicios.com",
-      "Rank": 102509
+      "Rank": 27521
     },
     {
       "Name": "elsiglo.com.pa",
-      "Rank": 38518
-    },
-    {
-      "Name": "flowactivo.co",
-      "Rank": 230739
+      "Rank": 73383
     },
     {
       "Name": "mbtrx.com",
-      "Rank": 15919
+      "Rank": 416426
     },
     {
-      "Name": "meduca.gob.pa",
-      "Rank": 260304
-    },
-    {
-      "Name": "mihogar.com.pa",
-      "Rank": 698530
+      "Name": "migracion.gob.pa",
+      "Rank": 398824
     },
     {
       "Name": "minsa.gob.pa",
-      "Rank": 900417
+      "Rank": 837812
+    },
+    {
+      "Name": "panamacompra.gob.pa",
+      "Rank": 234927
     },
     {
       "Name": "pancanal.com",
-      "Rank": 69986
-    },
-    {
-      "Name": "print.com.pa",
-      "Rank": 955778
-    },
-    {
-      "Name": "rpctv.com",
-      "Rank": 307721
+      "Rank": 57379
     },
     {
       "Name": "rumberos.net",
-      "Rank": 812033
-    },
-    {
-      "Name": "stamps.com.pa",
-      "Rank": 628892
+      "Rank": 692346
     },
     {
       "Name": "tocumenpanama.aero",
-      "Rank": 428141
+      "Rank": 390786
     },
     {
-      "Name": "utp.ac.pa",
-      "Rank": 243472
+      "Name": "transito.gob.pa",
+      "Rank": 955405
     },
     {
-      "Name": "vergatheme.com",
-      "Rank": 640051
+      "Name": "unachi.ac.pa",
+      "Rank": 738998
     }
   ]
 }

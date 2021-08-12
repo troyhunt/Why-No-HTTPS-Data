@@ -2,152 +2,92 @@
   "CountryName": "Albania",
   "Domains": [
     {
-      "Name": "abcnews.al",
-      "Rank": 231217
-    },
-    {
-      "Name": "abcom.al",
-      "Rank": 490931
-    },
-    {
-      "Name": "albeu.com",
-      "Rank": 22973
-    },
-    {
-      "Name": "anabelmagazine.com",
-      "Rank": 13842
-    },
-    {
-      "Name": "app.gov.al",
-      "Rank": 571148
+      "Name": "arsimi.gov.al",
+      "Rank": 448457
     },
     {
       "Name": "ata.gov.al",
-      "Rank": 278390
-    },
-    {
-      "Name": "bkt.com.al",
-      "Rank": 399029
-    },
-    {
-      "Name": "blitz.al",
-      "Rank": 852136
-    },
-    {
-      "Name": "bota.al",
-      "Rank": 864699
-    },
-    {
-      "Name": "celesi.com",
-      "Rank": 689511
+      "Rank": 288246
     },
     {
       "Name": "epoka.edu.al",
-      "Rank": 351885
-    },
-    {
-      "Name": "fax.al",
-      "Rank": 320862
-    },
-    {
-      "Name": "financa.gov.al",
-      "Rank": 978782
-    },
-    {
-      "Name": "futurehome.al",
-      "Rank": 256327
+      "Rank": 524010
     },
     {
       "Name": "gazetadita.al",
-      "Rank": 168928
-    },
-    {
-      "Name": "gazetatema.net",
-      "Rank": 74874
+      "Rank": 258073
     },
     {
       "Name": "gen.al",
-      "Rank": 206075
-    },
-    {
-      "Name": "geo.edu.al",
-      "Rank": 727415
-    },
-    {
-      "Name": "gsh.al",
-      "Rank": 520545
-    },
-    {
-      "Name": "ikub.al",
-      "Rank": 105939
+      "Rank": 215585
     },
     {
       "Name": "instat.gov.al",
-      "Rank": 522796
+      "Rank": 314134
     },
     {
-      "Name": "jblinks.al",
-      "Rank": 802345
+      "Name": "ishp.gov.al",
+      "Rank": 989651
     },
     {
-      "Name": "joqalbania.com",
-      "Rank": 3121
+      "Name": "javanews.al",
+      "Rank": 480260
     },
     {
-      "Name": "njoftime.com",
-      "Rank": 236343
+      "Name": "kamera.al",
+      "Rank": 118828
     },
     {
-      "Name": "opinion.al",
-      "Rank": 314215
+      "Name": "mcloud.to",
+      "Rank": 70065
+    },
+    {
+      "Name": "pamfleti.net",
+      "Rank": 239283
     },
     {
       "Name": "panorama.com.al",
-      "Rank": 5164
+      "Rank": 10505
     },
     {
       "Name": "parlament.al",
-      "Rank": 473847
+      "Rank": 433273
     },
     {
-      "Name": "president.al",
-      "Rank": 388920
-    },
-    {
-      "Name": "qkr.gov.al",
-      "Rank": 704009
-    },
-    {
-      "Name": "rks-gov.net",
-      "Rank": 104057
-    },
-    {
-      "Name": "rtklive.com",
-      "Rank": 169226
+      "Name": "punetejashtme.gov.al",
+      "Rank": 475405
     },
     {
       "Name": "shekulli.com.al",
-      "Rank": 240397
+      "Rank": 380983
+    },
+    {
+      "Name": "shendetesia.gov.al",
+      "Rank": 686614
     },
     {
       "Name": "short24.pw",
-      "Rank": 127728
+      "Rank": 878762
     },
     {
-      "Name": "tiranapost.al",
-      "Rank": 441659
+      "Name": "shpresa.al",
+      "Rank": 955513
+    },
+    {
+      "Name": "syri.net",
+      "Rank": 12907
     },
     {
       "Name": "top-channel.tv",
-      "Rank": 31867
+      "Rank": 52472
     },
     {
       "Name": "umbrella.al",
-      "Rank": 487863
+      "Rank": 149727
     },
     {
       "Name": "vidnews.net",
-      "Rank": 414845
+      "Rank": 914060
     }
   ]
 }

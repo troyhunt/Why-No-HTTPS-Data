@@ -2,32 +2,40 @@
   "CountryName": "Saint Helena, Ascension and Tristan da Cunha",
   "Domains": [
     {
-      "Name": "ally.ac",
-      "Rank": 15420
+      "Name": "amo.sh",
+      "Rank": 565471
     },
     {
-      "Name": "amo.sh",
-      "Rank": 723460
+      "Name": "btsndrc.ac",
+      "Rank": 69661
     },
     {
       "Name": "copy.sh",
-      "Rank": 273677
+      "Rank": 285243
     },
     {
       "Name": "ftp.sh",
-      "Rank": 328948
+      "Rank": 251080
+    },
+    {
+      "Name": "link.ac",
+      "Rank": 116533
     },
     {
       "Name": "nothing.sh",
-      "Rank": 556530
+      "Rank": 370839
+    },
+    {
+      "Name": "ship.sh",
+      "Rank": 84850
     },
     {
       "Name": "speedy.sh",
-      "Rank": 76399
+      "Rank": 79132
     },
     {
       "Name": "wap.sh",
-      "Rank": 38418
+      "Rank": 32772
     }
   ]
 }

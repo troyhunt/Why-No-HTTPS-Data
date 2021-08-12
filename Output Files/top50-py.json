@@ -2,68 +2,48 @@
   "CountryName": "Paraguay",
   "Domains": [
     {
-      "Name": "5dias.com.py",
-      "Rank": 490632
-    },
-    {
       "Name": "asuncion.gov.py",
-      "Rank": 797441
+      "Rank": 584100
     },
     {
-      "Name": "cellshop.com",
-      "Rank": 367160
+      "Name": "coarco.com.py",
+      "Rank": 86137
     },
     {
       "Name": "cronica.com.py",
-      "Rank": 242875
+      "Rank": 256669
     },
     {
       "Name": "dap.com.py",
-      "Rank": 83105
-    },
-    {
-      "Name": "desdeparaguay.com",
-      "Rank": 335384
+      "Rank": 300236
     },
     {
       "Name": "epa.com.py",
-      "Rank": 79409
+      "Rank": 296458
     },
     {
-      "Name": "mag.gov.py",
-      "Rank": 197153
-    },
-    {
-      "Name": "nanduti.com.py",
-      "Rank": 395812
-    },
-    {
-      "Name": "paraguay.com",
-      "Rank": 55401
+      "Name": "mre.gov.py",
+      "Rank": 239147
     },
     {
       "Name": "portalguarani.com",
-      "Rank": 458743
+      "Rank": 636553
     },
     {
-      "Name": "sol.com.py",
-      "Rank": 848528
-    },
-    {
-      "Name": "stp.gov.py",
-      "Rank": 401793
-    },
-    {
-      "Name": "streamium.xyz",
-      "Rank": 190396
+      "Name": "telefuturo.com.py",
+      "Rank": 609133
     },
     {
       "Name": "tigosports.com.py",
-      "Rank": 454470
+      "Rank": 387287
     },
     {
-      "Name": "unae.edu.py",
-      "Rank": 194225
+      "Name": "tsje.gov.py",
+      "Rank": 732142
+    },
+    {
+      "Name": "wakeup.edu.py",
+      "Rank": 60365
     }
   ]
 }

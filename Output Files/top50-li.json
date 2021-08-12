@@ -2,40 +2,20 @@
   "CountryName": "Liechtenstein",
   "Domains": [
     {
-      "Name": "hdcity.li",
-      "Rank": 225312
+      "Name": "909.li",
+      "Rank": 95378
     },
     {
       "Name": "hpics.li",
-      "Rank": 116069
-    },
-    {
-      "Name": "lah.li",
-      "Rank": 429177
+      "Rank": 108558
     },
     {
       "Name": "ooh.li",
-      "Rank": 112361
-    },
-    {
-      "Name": "quizz.li",
-      "Rank": 658488
+      "Rank": 123529
     },
     {
       "Name": "shara.li",
-      "Rank": 217916
-    },
-    {
-      "Name": "utorrent.li",
-      "Rank": 93594
-    },
-    {
-      "Name": "watchseries.li",
-      "Rank": 831593
-    },
-    {
-      "Name": "xbytesv2.li",
-      "Rank": 528474
+      "Rank": 586563
     }
   ]
 }

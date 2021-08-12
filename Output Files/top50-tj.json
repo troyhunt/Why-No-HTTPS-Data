@@ -3,67 +3,55 @@
   "Domains": [
     {
       "Name": "avesta.tj",
-      "Rank": 369564
-    },
-    {
-      "Name": "babilon-m.tj",
-      "Rank": 583537
-    },
-    {
-      "Name": "babilon-t.tj",
-      "Rank": 910157
+      "Rank": 266834
     },
     {
       "Name": "dushanbe.tj",
-      "Rank": 167488
+      "Rank": 288813
     },
     {
-      "Name": "megafon.tj",
-      "Rank": 677861
+      "Name": "fft.tj",
+      "Rank": 382034
+    },
+    {
+      "Name": "hamsafon.tj",
+      "Rank": 120804
     },
     {
       "Name": "mix.tj",
-      "Rank": 81323
+      "Rank": 148161
     },
     {
       "Name": "mmk.tj",
-      "Rank": 182131
+      "Rank": 312457
     },
     {
-      "Name": "nbt.tj",
-      "Rank": 383061
+      "Name": "olympic.ru",
+      "Rank": 115235
     },
     {
       "Name": "planeta.tj",
-      "Rank": 538068
+      "Rank": 584368
     },
     {
       "Name": "president.tj",
-      "Rank": 245255
+      "Rank": 178984
     },
     {
-      "Name": "saturn.tj",
-      "Rank": 284248
+      "Name": "prezident.tj",
+      "Rank": 932558
+    },
+    {
+      "Name": "takvim.tj",
+      "Rank": 619408
     },
     {
       "Name": "tojnet.tj",
-      "Rank": 322231
+      "Rank": 485946
     },
     {
       "Name": "topfile.tj",
-      "Rank": 357406
-    },
-    {
-      "Name": "topvideo.tj",
-      "Rank": 79344
-    },
-    {
-      "Name": "ttl.tj",
-      "Rank": 533639
-    },
-    {
-      "Name": "untj.org",
-      "Rank": 283469
+      "Rank": 555839
     }
   ]
 }

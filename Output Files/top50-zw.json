@@ -2,20 +2,28 @@
   "CountryName": "Zimbabwe",
   "Domains": [
     {
-      "Name": "natartszim.org.zw",
-      "Rank": 103680
+      "Name": "africau.ac.zw",
+      "Rank": 140859
     },
     {
-      "Name": "nust.ac.zw",
-      "Rank": 944631
+      "Name": "czi.co.zw",
+      "Rank": 82451
+    },
+    {
+      "Name": "horizonhealthservices.co.zw",
+      "Rank": 59265
+    },
+    {
+      "Name": "natartszim.org.zw",
+      "Rank": 398630
+    },
+    {
+      "Name": "necinsurance.co.zw",
+      "Rank": 42704
     },
     {
       "Name": "vacancymail.co.zw",
-      "Rank": 575273
-    },
-    {
-      "Name": "zbc.co.zw",
-      "Rank": 351852
+      "Rank": 713986
     }
   ]
 }

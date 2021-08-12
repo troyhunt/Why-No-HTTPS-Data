@@ -2,76 +2,40 @@
   "CountryName": "Tanzania, United Republic of",
   "Domains": [
     {
+      "Name": "admission.ac.tz",
+      "Rank": 190678
+    },
+    {
       "Name": "african-court.org",
-      "Rank": 492014
+      "Rank": 350955
     },
     {
-      "Name": "aru.ac.tz",
-      "Rank": 328801
-    },
-    {
-      "Name": "bongo5.com",
-      "Rank": 325921
+      "Name": "ajira.go.tz",
+      "Rank": 106147
     },
     {
       "Name": "english-dictionary.help",
-      "Rank": 785669
+      "Rank": 272373
     },
     {
-      "Name": "globalpublishers.co.tz",
-      "Rank": 302395
+      "Name": "etrack.co.tz",
+      "Rank": 117996
     },
     {
-      "Name": "gov.go.tz",
-      "Rank": 441342
+      "Name": "heslb.go.tz",
+      "Rank": 76707
     },
     {
       "Name": "immigration.go.tz",
-      "Rank": 276359
+      "Rank": 307820
     },
     {
-      "Name": "jobsportal-career.com",
-      "Rank": 414358
-    },
-    {
-      "Name": "moh.go.tz",
-      "Rank": 586721
-    },
-    {
-      "Name": "nao.go.tz",
-      "Rank": 752753
-    },
-    {
-      "Name": "nhif.or.tz",
-      "Rank": 644481
-    },
-    {
-      "Name": "streamsport.eu",
-      "Rank": 919182
-    },
-    {
-      "Name": "tamisemi.go.tz",
-      "Rank": 297844
-    },
-    {
-      "Name": "theredddesk.org",
-      "Rank": 595201
-    },
-    {
-      "Name": "unistoretz.com",
-      "Rank": 845292
+      "Name": "tra.go.tz",
+      "Rank": 61583
     },
     {
       "Name": "utumishi.go.tz",
-      "Rank": 683746
-    },
-    {
-      "Name": "vijanatz.com",
-      "Rank": 609761
-    },
-    {
-      "Name": "wcf.go.tz",
-      "Rank": 869791
+      "Rank": 286760
     }
   ]
 }

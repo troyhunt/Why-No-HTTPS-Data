@@ -2,204 +2,144 @@
   "CountryName": "Estonia",
   "Domains": [
     {
-      "Name": "3ladies.su",
-      "Rank": 767364
+      "Name": "aiandus.ee",
+      "Rank": 123292
+    },
+    {
+      "Name": "amblamy.ee",
+      "Rank": 116568
     },
     {
       "Name": "arjlover.net",
-      "Rank": 174737
+      "Rank": 117218
     },
     {
       "Name": "bag.ee",
-      "Rank": 113004
+      "Rank": 128615
     },
     {
       "Name": "bl.ee",
-      "Rank": 49535
+      "Rank": 86313
     },
     {
-      "Name": "chudo.tech",
-      "Rank": 856205
-    },
-    {
-      "Name": "coinfox.info",
-      "Rank": 465890
-    },
-    {
-      "Name": "dimox.name",
-      "Rank": 519531
-    },
-    {
-      "Name": "economic-definition.com",
-      "Rank": 362827
-    },
-    {
-      "Name": "edicy.com",
-      "Rank": 505081
-    },
-    {
-      "Name": "eki.ee",
-      "Rank": 114229
-    },
-    {
-      "Name": "elron.ee",
-      "Rank": 488402
-    },
-    {
-      "Name": "filosoft.ee",
-      "Rank": 745377
+      "Name": "doktorsos.com",
+      "Rank": 648178
     },
     {
       "Name": "folklore.ee",
-      "Rank": 242687
-    },
-    {
-      "Name": "foto-planeta.com",
-      "Rank": 612486
-    },
-    {
-      "Name": "hackfaq.net",
-      "Rank": 522751
+      "Rank": 176812
     },
     {
       "Name": "igraem.pro",
-      "Rank": 791479
+      "Rank": 864865
     },
     {
       "Name": "ilmateenistus.ee",
-      "Rank": 367652
-    },
-    {
-      "Name": "it-help.info",
-      "Rank": 342904
+      "Rank": 223243
     },
     {
       "Name": "jalgpall.ee",
-      "Rank": 547553
+      "Rank": 226716
     },
     {
-      "Name": "kickasstorrents.ee",
-      "Rank": 183713
-    },
-    {
-      "Name": "kitchenguide.su",
-      "Rank": 670832
+      "Name": "kennelliit.ee",
+      "Rank": 770963
     },
     {
       "Name": "kvu.su",
-      "Rank": 368213
+      "Rank": 243790
     },
     {
       "Name": "lin.ee",
-      "Rank": 103403
+      "Rank": 3520
+    },
+    {
+      "Name": "lm.ee",
+      "Rank": 178451
     },
     {
       "Name": "mail.ee",
-      "Rank": 257530
-    },
-    {
-      "Name": "make-self.net",
-      "Rank": 602875
+      "Rank": 519191
     },
     {
       "Name": "mcaf.ee",
-      "Rank": 62362
-    },
-    {
-      "Name": "microsin.net",
-      "Rank": 727063
-    },
-    {
-      "Name": "narva.ee",
-      "Rank": 525110
+      "Rank": 113542
     },
     {
       "Name": "notebookclub.org",
-      "Rank": 598550
+      "Rank": 686143
     },
     {
-      "Name": "nsking.eu",
-      "Rank": 606275
-    },
-    {
-      "Name": "nvtc.ee",
-      "Rank": 365338
+      "Name": "otebe.info",
+      "Rank": 674324
     },
     {
       "Name": "photoline.ru",
-      "Rank": 230905
+      "Rank": 169029
     },
     {
       "Name": "pmo.ee",
-      "Rank": 350022
-    },
-    {
-      "Name": "puolenkuunpelit.com",
-      "Rank": 805843
-    },
-    {
-      "Name": "ra.ee",
-      "Rank": 820108
+      "Rank": 323119
     },
     {
       "Name": "rodina.news",
-      "Rank": 862601
+      "Rank": 915624
     },
     {
-      "Name": "seti.ee",
-      "Rank": 138911
+      "Name": "sellaite.com",
+      "Rank": 312643
     },
     {
       "Name": "shariki.online",
-      "Rank": 340880
+      "Rank": 167676
     },
     {
       "Name": "skuky.net",
-      "Rank": 309725
+      "Rank": 427993
     },
     {
-      "Name": "solidvin.com",
-      "Rank": 583212
+      "Name": "sotok.net",
+      "Rank": 461358
     },
     {
       "Name": "sphider.eu",
-      "Rank": 497305
+      "Rank": 586410
     },
     {
       "Name": "sportti.com",
-      "Rank": 615382
-    },
-    {
-      "Name": "strmnt.com",
-      "Rank": 770425
-    },
-    {
-      "Name": "studyinestonia.ee",
-      "Rank": 611801
+      "Rank": 898376
     },
     {
       "Name": "tehne.com",
-      "Rank": 655426
+      "Rank": 647392
     },
     {
       "Name": "thepiratebay.ee",
-      "Rank": 192251
+      "Rank": 601887
     },
     {
       "Name": "vaz.ee",
-      "Rank": 762669
+      "Rank": 869993
     },
     {
-      "Name": "vikingline.ee",
-      "Rank": 817804
+      "Name": "weby.ee",
+      "Rank": 575669
     },
     {
-      "Name": "vin-db.com",
-      "Rank": 260826
+      "Name": "www.ee",
+      "Rank": 95573
     },
     {
-      "Name": "whobycar.com",
-      "Rank": 812686
+      "Name": "xn--80abzqel.xn--p1ai",
+      "Rank": 868857
+    },
+    {
+      "Name": "xzona.su",
+      "Rank": 576662
+    },
+    {
+      "Name": "x-zona.su",
+      "Rank": 697728
     }
   ]
 }

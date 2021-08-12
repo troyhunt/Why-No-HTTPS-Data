@@ -3,47 +3,47 @@
   "Domains": [
     {
       "Name": "analog.cx",
-      "Rank": 113599
+      "Rank": 95149
     },
     {
       "Name": "echo.cx",
-      "Rank": 26030
+      "Rank": 26224
     },
     {
       "Name": "en.cx",
-      "Rank": 220930
+      "Rank": 160907
     },
     {
       "Name": "exs.cx",
-      "Rank": 21362
-    },
-    {
-      "Name": "fam.cx",
-      "Rank": 277485
+      "Rank": 21234
     },
     {
       "Name": "fc.cx",
-      "Rank": 78894
+      "Rank": 154245
     },
     {
       "Name": "it.cx",
-      "Rank": 474936
-    },
-    {
-      "Name": "life.cx",
-      "Rank": 499615
+      "Rank": 666929
     },
     {
       "Name": "ma.cx",
-      "Rank": 347023
+      "Rank": 375071
     },
     {
       "Name": "nav.cx",
-      "Rank": 30645
+      "Rank": 22632
     },
     {
       "Name": "pow.cx",
-      "Rank": 820330
+      "Rank": 516234
+    },
+    {
+      "Name": "si.cx",
+      "Rank": 796138
+    },
+    {
+      "Name": "tof.cx",
+      "Rank": 987210
     }
   ]
 }

@@ -2,204 +2,124 @@
   "CountryName": "Latvia",
   "Domains": [
     {
-      "Name": "1tv.lv",
-      "Rank": 724401
+      "Name": "0x00.lv",
+      "Rank": 99576
     },
     {
-      "Name": "akcijasbuklets.lv",
-      "Rank": 724441
+      "Name": "arhivistubiedriba.lv",
+      "Rank": 79525
     },
     {
-      "Name": "analgate.com",
-      "Rank": 524140
-    },
-    {
-      "Name": "auto24.lv",
-      "Rank": 765350
-    },
-    {
-      "Name": "auto-abc.eu",
-      "Rank": 686051
-    },
-    {
-      "Name": "autospares.lv",
-      "Rank": 614987
-    },
-    {
-      "Name": "bauskasdzive.lv",
-      "Rank": 670059
+      "Name": "basket.lv",
+      "Rank": 922680
     },
     {
       "Name": "baznica.info",
-      "Rank": 683586
+      "Rank": 653868
     },
     {
-      "Name": "bt1.lv",
-      "Rank": 359593
+      "Name": "bmwpower.lv",
+      "Rank": 696074
     },
     {
       "Name": "ccore.online",
-      "Rank": 708389
+      "Rank": 917332
     },
     {
-      "Name": "dabasgaze.lv",
-      "Rank": 379107
+      "Name": "d-fakti.lv",
+      "Rank": 78646
     },
     {
-      "Name": "dpi.lv",
-      "Rank": 689529
-    },
-    {
-      "Name": "element.lv",
-      "Rank": 352461
+      "Name": "emlportal.com",
+      "Rank": 681318
     },
     {
       "Name": "emlstart.com",
-      "Rank": 606271
+      "Rank": 480945
     },
     {
       "Name": "filebase.ws",
-      "Rank": 34953
-    },
-    {
-      "Name": "forumcinemas.lv",
-      "Rank": 346117
-    },
-    {
-      "Name": "freecellgamesolutions.com",
-      "Rank": 725097
+      "Rank": 188262
     },
     {
       "Name": "freecity.lv",
-      "Rank": 756757
-    },
-    {
-      "Name": "gorod.lv",
-      "Rank": 91447
-    },
-    {
-      "Name": "grani.lv",
-      "Rank": 259853
-    },
-    {
-      "Name": "gribu.lv",
-      "Rank": 626225
+      "Rank": 684700
     },
     {
       "Name": "guardlink.org",
-      "Rank": 454577
+      "Rank": 873297
+    },
+    {
+      "Name": "ibook.lv",
+      "Rank": 861293
     },
     {
       "Name": "inbox.lv",
-      "Rank": 8912
+      "Rank": 8673
     },
     {
-      "Name": "javvids.com",
-      "Rank": 269287
+      "Name": "intimmeitene.lv",
+      "Rank": 797911
     },
     {
-      "Name": "jerkplanet.org",
-      "Rank": 766973
+      "Name": "ionpron.net",
+      "Rank": 666949
     },
     {
       "Name": "klsele.com",
-      "Rank": 139145
+      "Rank": 149023
     },
     {
-      "Name": "la.lv",
-      "Rank": 106070
+      "Name": "laiki.lv",
+      "Rank": 764008
     },
     {
       "Name": "lanet.lv",
-      "Rank": 112887
+      "Rank": 62612
     },
     {
-      "Name": "leta.lv",
-      "Rank": 261984
+      "Name": "maizesmaja.lv",
+      "Rank": 141509
     },
     {
-      "Name": "likumi.lv",
-      "Rank": 115787
+      "Name": "meeting.lv",
+      "Rank": 579633
     },
     {
-      "Name": "lm.gov.lv",
-      "Rank": 470162
+      "Name": "mklat.lv",
+      "Rank": 594073
     },
     {
-      "Name": "magfree.net",
-      "Rank": 607431
+      "Name": "nowlinks.net",
+      "Rank": 75984
     },
     {
-      "Name": "meteo.lv",
-      "Rank": 452507
+      "Name": "serveriem.lv",
+      "Rank": 130476
     },
     {
-      "Name": "minibb.com",
-      "Rank": 386612
+      "Name": "subbota.com",
+      "Rank": 574796
     },
     {
-      "Name": "myslavegirl.org",
-      "Rank": 437176
-    },
-    {
-      "Name": "orangeisthenewblacktv.net",
-      "Rank": 737123
-    },
-    {
-      "Name": "pornobunny.org",
-      "Rank": 758329
-    },
-    {
-      "Name": "press.lv",
-      "Rank": 237058
-    },
-    {
-      "Name": "ptac.gov.lv",
-      "Rank": 695368
-    },
-    {
-      "Name": "riga-airport.com",
-      "Rank": 263366
-    },
-    {
-      "Name": "smipole.com",
-      "Rank": 594197
-    },
-    {
-      "Name": "sportacentrs.com",
-      "Rank": 208463
-    },
-    {
-      "Name": "tdauto.lv",
-      "Rank": 126885
-    },
-    {
-      "Name": "thebestfashionblog.com",
-      "Rank": 372631
-    },
-    {
-      "Name": "tofairs.com",
-      "Rank": 375522
-    },
-    {
-      "Name": "tomo.lv",
-      "Rank": 113075
-    },
-    {
-      "Name": "turiba.lv",
-      "Rank": 320688
+      "Name": "ulist-man.com",
+      "Rank": 507375
     },
     {
       "Name": "us4-usndr.com",
-      "Rank": 780875
+      "Rank": 747056
     },
     {
-      "Name": "vesti.lv",
-      "Rank": 190888
+      "Name": "us7-usndr.com",
+      "Rank": 776308
+    },
+    {
+      "Name": "venta.lv",
+      "Rank": 800238
     },
     {
       "Name": "viss.lv",
-      "Rank": 661254
+      "Rank": 588563
     }
   ]
 }

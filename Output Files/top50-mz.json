@@ -2,40 +2,16 @@
   "CountryName": "Mozambique",
   "Domains": [
     {
-      "Name": "bancomoc.mz",
-      "Rank": 278024
+      "Name": "app.co.mz",
+      "Rank": 316880
     },
     {
-      "Name": "bancounico.co.mz",
-      "Rank": 503098
-    },
-    {
-      "Name": "folhademaputo.co.mz",
-      "Rank": 452242
-    },
-    {
-      "Name": "isced.ac.mz",
-      "Rank": 219218
-    },
-    {
-      "Name": "mined.gov.mz",
-      "Rank": 952618
-    },
-    {
-      "Name": "rm.co.mz",
-      "Rank": 655431
-    },
-    {
-      "Name": "sapo.mz",
-      "Rank": 102323
+      "Name": "semedobizarro.co.mz",
+      "Rank": 122092
     },
     {
       "Name": "ucm.ac.mz",
-      "Rank": 599816
-    },
-    {
-      "Name": "verdade.co.mz",
-      "Rank": 387936
+      "Rank": 724844
     }
   ]
 }

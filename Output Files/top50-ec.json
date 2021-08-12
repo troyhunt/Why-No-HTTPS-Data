@@ -2,184 +2,80 @@
   "CountryName": "Ecuador",
   "Domains": [
     {
-      "Name": "administracionpublica.gob.ec",
-      "Rank": 979417
-    },
-    {
-      "Name": "andinatel.com",
-      "Rank": 913815
+      "Name": "atm.gob.ec",
+      "Rank": 864172
     },
     {
       "Name": "c-movil.com.ec",
-      "Rank": 864241
+      "Rank": 772996
     },
     {
       "Name": "cne.gob.ec",
-      "Rank": 722919
+      "Rank": 90897
     },
     {
       "Name": "ecuadorencifras.gob.ec",
-      "Rank": 340212
-    },
-    {
-      "Name": "ecuadorinmediato.com",
-      "Rank": 303511
+      "Rank": 500589
     },
     {
       "Name": "ecuadorlegalonline.com",
-      "Rank": 111848
-    },
-    {
-      "Name": "ecuadortv.ec",
-      "Rank": 797366
-    },
-    {
-      "Name": "ecuagol.com",
-      "Rank": 48517
-    },
-    {
-      "Name": "eldiario.ec",
-      "Rank": 157768
-    },
-    {
-      "Name": "eltelegrafo.com.ec",
-      "Rank": 47186
-    },
-    {
-      "Name": "eltiempo.com.ec",
-      "Rank": 180461
+      "Rank": 206676
     },
     {
       "Name": "espol.edu.ec",
-      "Rank": 72469
-    },
-    {
-      "Name": "estadio.ec",
-      "Rank": 761973
+      "Rank": 62396
     },
     {
       "Name": "forosecuador.ec",
-      "Rank": 32291
-    },
-    {
-      "Name": "fullcarga-titan.com.ec",
-      "Rank": 550980
-    },
-    {
-      "Name": "funcionjudicial.gob.ec",
-      "Rank": 120295
-    },
-    {
-      "Name": "futbolecuador.com",
-      "Rank": 38695
+      "Rank": 267613
     },
     {
       "Name": "happyplanetindex.org",
-      "Rank": 89327
+      "Rank": 69717
     },
     {
       "Name": "igepn.edu.ec",
-      "Rank": 507324
+      "Rank": 392231
     },
     {
       "Name": "miclaro.com.ec",
-      "Rank": 286259
+      "Rank": 214931
     },
     {
       "Name": "nativeweb.org",
-      "Rank": 80904
+      "Rank": 72828
     },
     {
       "Name": "pichincha.com",
-      "Rank": 30914
+      "Rank": 20158
     },
     {
-      "Name": "produbanco.com",
-      "Rank": 84606
-    },
-    {
-      "Name": "produbanco.com.ec",
-      "Rank": 216208
-    },
-    {
-      "Name": "pucesi.edu.ec",
-      "Rank": 906247
-    },
-    {
-      "Name": "rts.com.ec",
-      "Rank": 336938
-    },
-    {
-      "Name": "see-ec.org",
-      "Rank": 162326
+      "Name": "planificacion.gob.ec",
+      "Rank": 677631
     },
     {
       "Name": "senescyt.gob.ec",
-      "Rank": 161814
+      "Rank": 140186
     },
     {
-      "Name": "serbachiller.ec",
-      "Rank": 132089
-    },
-    {
-      "Name": "sindicatodechoferespichincha.com.ec",
-      "Rank": 36294
-    },
-    {
-      "Name": "ska-p.com",
-      "Rank": 916215
-    },
-    {
-      "Name": "socioempleo.gob.ec",
-      "Rank": 227392
-    },
-    {
-      "Name": "studiofutbol.com.ec",
-      "Rank": 225923
-    },
-    {
-      "Name": "supercias.gob.ec",
-      "Rank": 297883
+      "Name": "serving.com.ec",
+      "Rank": 114182
     },
     {
       "Name": "supercines.com",
-      "Rank": 300099
-    },
-    {
-      "Name": "teleamazonas.com",
-      "Rank": 18669
-    },
-    {
-      "Name": "trabajo.gob.ec",
-      "Rank": 194367
+      "Rank": 463184
     },
     {
       "Name": "ug.edu.ec",
-      "Rank": 251539
+      "Rank": 74460
     },
     {
       "Name": "ulvr.edu.ec",
-      "Rank": 526975
-    },
-    {
-      "Name": "unesum.edu.ec",
-      "Rank": 874125
-    },
-    {
-      "Name": "usfq.edu.ec",
-      "Rank": 88788
-    },
-    {
-      "Name": "uti.edu.ec",
-      "Rank": 693041
+      "Rank": 817916
     },
     {
       "Name": "utmachala.edu.ec",
-      "Rank": 634111
-    },
-    {
-      "Name": "utn.edu.ec",
-      "Rank": 255381
+      "Rank": 194289
     }
   ]
 }

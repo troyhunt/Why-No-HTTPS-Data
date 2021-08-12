@@ -80,6 +80,10 @@
     "Name": "Bahrain"
   },
   {
+    "Code": "BI",
+    "Name": "Burundi"
+  },
+  {
     "Code": "BJ",
     "Name": "Benin"
   },
@@ -172,14 +176,6 @@
     "Name": "Cuba"
   },
   {
-    "Code": "CV",
-    "Name": "Cabo Verde"
-  },
-  {
-    "Code": "CW",
-    "Name": "Curaçao"
-  },
-  {
     "Code": "CX",
     "Name": "Christmas Island"
   },
@@ -198,10 +194,6 @@
   {
     "Code": "DK",
     "Name": "Denmark"
-  },
-  {
-    "Code": "DM",
-    "Name": "Dominica"
   },
   {
     "Code": "DO",
@@ -290,10 +282,6 @@
   {
     "Code": "GL",
     "Name": "Greenland"
-  },
-  {
-    "Code": "GM",
-    "Name": "Gambia"
   },
   {
     "Code": "GN",
@@ -412,10 +400,6 @@
     "Name": "Kuwait"
   },
   {
-    "Code": "KY",
-    "Name": "Cayman Islands"
-  },
-  {
     "Code": "KZ",
     "Name": "Kazakhstan"
   },
@@ -496,10 +480,6 @@
     "Name": "Macao"
   },
   {
-    "Code": "MQ",
-    "Name": "Martinique"
-  },
-  {
     "Code": "MR",
     "Name": "Mauritania"
   },
@@ -564,6 +544,10 @@
     "Name": "Nepal"
   },
   {
+    "Code": "NR",
+    "Name": "Nauru"
+  },
+  {
     "Code": "NU",
     "Name": "Niue"
   },
@@ -602,6 +586,10 @@
   {
     "Code": "PL",
     "Name": "Poland"
+  },
+  {
+    "Code": "PM",
+    "Name": "Saint Pierre and Miquelon"
   },
   {
     "Code": "PR",
@@ -652,6 +640,10 @@
     "Name": "Saudi Arabia"
   },
   {
+    "Code": "SB",
+    "Name": "Solomon Islands"
+  },
+  {
     "Code": "SC",
     "Name": "Seychelles"
   },
@@ -678,10 +670,6 @@
   {
     "Code": "SK",
     "Name": "Slovakia"
-  },
-  {
-    "Code": "SL",
-    "Name": "Sierra Leone"
   },
   {
     "Code": "SM",
@@ -804,10 +792,6 @@
     "Name": "Uzbekistan"
   },
   {
-    "Code": "VA",
-    "Name": "Holy See"
-  },
-  {
     "Code": "VC",
     "Name": "Saint Vincent and the Grenadines"
   },
@@ -828,16 +812,16 @@
     "Name": "Vanuatu"
   },
   {
+    "Code": "WF",
+    "Name": "Wallis and Futuna"
+  },
+  {
     "Code": "WS",
     "Name": "Samoa"
   },
   {
     "Code": "YE",
     "Name": "Yemen"
-  },
-  {
-    "Code": "YT",
-    "Name": "Mayotte"
   },
   {
     "Code": "ZA",

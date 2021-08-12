@@ -3,19 +3,15 @@
   "Domains": [
     {
       "Name": "mana.pf",
-      "Rank": 575520
+      "Rank": 493474
     },
     {
-      "Name": "opt.pf",
-      "Rank": 858479
+      "Name": "petitesannonces.pf",
+      "Rank": 417695
     },
     {
       "Name": "service-public.pf",
-      "Rank": 821116
-    },
-    {
-      "Name": "vini.pf",
-      "Rank": 815365
+      "Rank": 472375
     }
   ]
 }

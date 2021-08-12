@@ -2,204 +2,128 @@
   "CountryName": "Uzbekistan",
   "Domains": [
     {
-      "Name": "aab.uz",
-      "Rank": 563671
-    },
-    {
-      "Name": "agro.uz",
-      "Rank": 251805
-    },
-    {
-      "Name": "bimm.uz",
-      "Rank": 204685
-    },
-    {
-      "Name": "ca-news.org",
-      "Rank": 66957
+      "Name": "autocenter.uz",
+      "Rank": 933386
     },
     {
       "Name": "cawater-info.net",
-      "Rank": 357576
-    },
-    {
-      "Name": "cbu.uz",
-      "Rank": 320414
-    },
-    {
-      "Name": "cinerama.uz",
-      "Rank": 195944
+      "Rank": 365859
     },
     {
       "Name": "comments.bot",
-      "Rank": 419321
-    },
-    {
-      "Name": "customs.uz",
-      "Rank": 294971
+      "Rank": 550328
     },
     {
       "Name": "darakchi.uz",
-      "Rank": 356736
+      "Rank": 276075
     },
     {
-      "Name": "edu.uz",
-      "Rank": 375780
+      "Name": "egov.uz",
+      "Rank": 104124
     },
     {
-      "Name": "fayllar.org",
-      "Rank": 586550
+      "Name": "ek.uz",
+      "Rank": 505590
+    },
+    {
+      "Name": "evo.uz",
+      "Rank": 807635
     },
     {
       "Name": "fergana.agency",
-      "Rank": 212824
-    },
-    {
-      "Name": "fikr.uz",
-      "Rank": 585096
+      "Rank": 390460
     },
     {
       "Name": "fmc.uz",
-      "Rank": 288495
+      "Rank": 416854
     },
     {
-      "Name": "galsmedia.uz",
-      "Rank": 386515
-    },
-    {
-      "Name": "geografiya.uz",
-      "Rank": 481091
+      "Name": "fut.uz",
+      "Rank": 70658
     },
     {
       "Name": "hemophilia.uz",
-      "Rank": 127414
+      "Rank": 266339
     },
     {
-      "Name": "hostedredmine.com",
-      "Rank": 298477
+      "Name": "ima.uz",
+      "Rank": 465202
     },
     {
-      "Name": "itv.uz",
-      "Rank": 287680
-    },
-    {
-      "Name": "lex.uz",
-      "Rank": 37085
+      "Name": "mdis.uz",
+      "Rank": 610884
     },
     {
       "Name": "med.uz",
-      "Rank": 121527
+      "Rank": 67337
     },
     {
-      "Name": "mediabay.uz",
-      "Rank": 122825
+      "Name": "multik.uz",
+      "Rank": 106222
     },
     {
-      "Name": "mediapark.uz",
-      "Rank": 284028
-    },
-    {
-      "Name": "megasoft.uz",
-      "Rank": 471752
-    },
-    {
-      "Name": "minzdrav.uz",
-      "Rank": 281930
+      "Name": "muslim.uz",
+      "Rank": 581004
     },
     {
       "Name": "myday.uz",
-      "Rank": 433183
+      "Rank": 458402
     },
     {
       "Name": "mytube.uz",
-      "Rank": 117135
+      "Rank": 656094
     },
     {
-      "Name": "newmp3.uz",
-      "Rank": 246274
-    },
-    {
-      "Name": "player.uz",
-      "Rank": 141296
+      "Name": "olympic.uz",
+      "Rank": 610946
     },
     {
       "Name": "railway.uz",
-      "Rank": 320227
+      "Rank": 303311
     },
     {
-      "Name": "rs.gov.ru",
-      "Rank": 81263
+      "Name": "sgcc.uz",
+      "Rank": 452908
     },
     {
       "Name": "tarona.net",
-      "Rank": 297711
+      "Rank": 385448
     },
     {
-      "Name": "tdpu.uz",
-      "Rank": 375185
+      "Name": "track.uz",
+      "Rank": 565128
     },
     {
-      "Name": "tn.uz",
-      "Rank": 276197
+      "Name": "trustbank.uz",
+      "Rank": 566220
     },
     {
-      "Name": "topmusic.uz",
-      "Rank": 230202
-    },
-    {
-      "Name": "top-muzon.com",
-      "Rank": 288435
-    },
-    {
-      "Name": "tribuna.uz",
-      "Rank": 431160
-    },
-    {
-      "Name": "tsul.uz",
-      "Rank": 558193
-    },
-    {
-      "Name": "turontelecom.uz",
-      "Rank": 552942
-    },
-    {
-      "Name": "uza.uz",
-      "Rank": 75094
-    },
-    {
-      "Name": "uzbekenergo.uz",
-      "Rank": 229689
+      "Name": "uzbekgo.com",
+      "Rank": 644797
     },
     {
       "Name": "uzdaily.uz",
-      "Rank": 261018
-    },
-    {
-      "Name": "uzedu.uz",
-      "Rank": 350905
-    },
-    {
-      "Name": "uzex.uz",
-      "Rank": 59642
+      "Rank": 53705
     },
     {
       "Name": "wiut.uz",
-      "Rank": 166966
+      "Rank": 113207
+    },
+    {
+      "Name": "xarid.uz",
+      "Rank": 402804
     },
     {
       "Name": "xb.uz",
-      "Rank": 266601
+      "Rank": 149338
     },
     {
-      "Name": "xs.uz",
-      "Rank": 503797
+      "Name": "zamonaviy.uz",
+      "Rank": 198228
     },
     {
       "Name": "ziyonet.uz",
-      "Rank": 170135
-    },
-    {
-      "Name": "ziyouz.com",
-      "Rank": 247883
+      "Rank": 340060
     }
   ]
 }

@@ -2,88 +2,72 @@
   "CountryName": "Afghanistan",
   "Domains": [
     {
-      "Name": "1sada.com",
-      "Rank": 436441
-    },
-    {
       "Name": "1tvnews.af",
-      "Rank": 275722
-    },
-    {
-      "Name": "acbar.org",
-      "Rank": 19957
+      "Rank": 421379
     },
     {
       "Name": "afghanpaper.com",
-      "Rank": 264928
-    },
-    {
-      "Name": "aib.af",
-      "Rank": 680005
+      "Rank": 675167
     },
     {
       "Name": "asia-news.com",
-      "Rank": 302235
+      "Rank": 345234
     },
     {
-      "Name": "bakhtarnews.com.af",
-      "Rank": 332636
+      "Name": "blog.af",
+      "Rank": 27523
     },
     {
       "Name": "ccnpp.org",
-      "Rank": 113632
+      "Rank": 417085
     },
     {
-      "Name": "hindukosh.com",
-      "Rank": 285060
+      "Name": "dailies.gov.af",
+      "Rank": 629015
     },
     {
-      "Name": "iec.org.af",
-      "Rank": 708599
+      "Name": "etisalat.af",
+      "Rank": 948523
+    },
+    {
+      "Name": "idroidzone.com",
+      "Rank": 127001
     },
     {
       "Name": "jomhornews.com",
-      "Rank": 221535
+      "Rank": 301211
     },
     {
       "Name": "khabarnama.net",
-      "Rank": 103055
+      "Rank": 279591
     },
     {
-      "Name": "maiwandbank.com",
-      "Rank": 897653
-    },
-    {
-      "Name": "novamovie.net",
-      "Rank": 106027
-    },
-    {
-      "Name": "o4af.com",
-      "Rank": 73851
-    },
-    {
-      "Name": "pgs.af",
-      "Rank": 127969
-    },
-    {
-      "Name": "razaqmamoon.com",
-      "Rank": 455932
+      "Name": "movie.af",
+      "Rank": 58640
     },
     {
       "Name": "reporterly.net",
-      "Rank": 201794
+      "Rank": 247097
     },
     {
       "Name": "samkey.org",
-      "Rank": 183065
+      "Rank": 129211
     },
     {
-      "Name": "taand.com",
-      "Rank": 100528
+      "Name": "shafaqna.com",
+      "Rank": 4835
     },
     {
-      "Name": "undpjobs.net",
-      "Rank": 626283
+      "Name": "skytravellers.com",
+      "Rank": 419711
+    },
+    {
+      "Name": "softbuff.com",
+      "Rank": 115869
+    },
+    {
+      "Name": "tkg.af",
+      "Rank": 507539
     }
   ]
 }

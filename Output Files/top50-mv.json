@@ -2,12 +2,16 @@
   "CountryName": "Maldives",
   "Domains": [
     {
-      "Name": "mnu.edu.mv",
-      "Rank": 878273
+      "Name": "ace.org.mv",
+      "Rank": 62897
     },
     {
-      "Name": "sun.mv",
-      "Rank": 50830
+      "Name": "egov.mv",
+      "Rank": 800436
+    },
+    {
+      "Name": "vaguthu.mv",
+      "Rank": 63289
     }
   ]
 }
